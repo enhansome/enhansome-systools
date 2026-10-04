@@ -2,9 +2,9 @@
 
 ## Lists
 
-* [Awesome-Selfhosted](https://github.com/Kickball/awesome-selfhosted) ⭐ 323,499 | 🐛 0 | 📅 2026-10-02: This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
-* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 247,552 | 🐛 172 | 📅 2024-11-19
-* [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) ⭐ 35,320 | 🐛 0 | 📅 2026-09-17: A curated list of amazingly awesome open source sysadmin resources.
+* [Awesome-Selfhosted](https://github.com/Kickball/awesome-selfhosted) ⭐ 323,721 | 🐛 0 | 📅 2026-10-02: This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
+* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 247,738 | 🐛 171 | 📅 2024-11-19
+* [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) ⭐ 35,326 | 🐛 0 | 📅 2026-09-17: A curated list of amazingly awesome open source sysadmin resources.
 * [Lucid Index](https://selfhostedsource.tech/self-hosted): This site's goal is to help you find the software you need as quickly as possible.
 
 ## Reliability
@@ -64,7 +64,7 @@
 > sudo sysctl -w kernel.dmesg_restrict=1
 ```
 
-* [darling](https://github.com/darlinghq/darling) ⭐ 13,407 | 🐛 404 | 🌐 Objective-C | 📅 2026-09-06: Darwin/macOS emulation layer for Linux
+* [darling](https://github.com/darlinghq/darling) ⭐ 13,404 | 🐛 405 | 🌐 Objective-C | 📅 2026-09-06: Darwin/macOS emulation layer for Linux
 * [LKRG](https://github.com/openwall/lkrg) ⭐ 623 | 🐛 86 | 🌐 C | 📅 2026-09-25: Linux Kernel Runtime Guard
 * [Petitboot](https://github.com/open-power/petitboot) ⭐ 259 | 🐛 43 | 🌐 C | 📅 2026-01-12: is an operating system bootloader based on Linux kexec. It can load any operating system image that supports the Linux kexec re-boot mechanism like Linux and FreeBSD.
 * [Dmesg under the hood](https://ops.tips/blog/dmesg-under-the-hood/): Dmesg allows us to grasp what's going on under the hood when the kernel gets bad. Check out how dmesg is able to read kernel logs and show to the user.
@@ -87,7 +87,7 @@ APFS FUSE Driver for Linux
 * [APFS FUSE Driver for Linux](https://github.com/sgan81/apfs-fuse) ⭐ 2,152 | 🐛 126 | 🌐 C++ | 📅 2024-08-13
 * [FlashFloppy](https://github.com/keirf/FlashFloppy) ⭐ 1,617 | 🐛 88 | 🌐 C | 📅 2025-12-16: Floppy drive emulator for Gotek hardware
 * [displaylink-debian](https://github.com/AdnanHodzic/displaylink-debian) ⭐ 1,455 | 🐛 81 | 🌐 Shell | 📅 2025-03-23: DisplayLink driver installer for Debian and Ubuntu based Linux distributions.
-* [Framework Laptop Embedded Controller (EC)](https://github.com/FrameworkComputer/EmbeddedController) ⭐ 1,195 | 🐛 49 | 📅 2026-09-30
+* [Framework Laptop Embedded Controller (EC)](https://github.com/FrameworkComputer/EmbeddedController) ⭐ 1,196 | 🐛 49 | 📅 2026-09-30
 * [How To Configure Your Monitors With Xrandr in Linux](https://linuxconfig.org/how-to-configure-your-monitors-with-xrandr-in-linux) on [kali](https://unix.stackexchange.com/questions/288670/how-to-setup-triple-monitors-with-kali-linux) too
 * [Writing a pseudo-device driver on Linux](https://lyngvaer.no/log/writing-pseudo-device-driver)
 
@@ -96,7 +96,7 @@ APFS FUSE Driver for Linux
 * [bcc](https://github.com/iovisor/bcc/) ⭐ 22,693 | 🐛 1,076 | 🌐 C | 📅 2026-10-02: Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 * [ebpf\_exporter](https://github.com/cloudflare/ebpf_exporter) ⭐ 2,650 | 🐛 17 | 🌐 Go | 📅 2026-10-01: Prometheus exporter for custom eBPF metrics
 * [BPF: A New Type of Software](http://www.brendangregg.com/blog/2019-12-02/bpf-a-new-type-of-software.html), [BPF Performance Tools (book)](http://www.brendangregg.com/bpf-performance-tools-book.html), [repo](https://github.com/brendangregg/bpf-perf-tools-book) ⭐ 1,828 | 🐛 17 | 🌐 Python | 📅 2024-04-30.
-* Rewriting sysctl(8) in Rust: [systeroid](https://blog.orhun.dev/rewriting-sysctl-in-rust/). [repo](https://github.com/orhun/systeroid) ⭐ 1,471 | 🐛 17 | 🌐 Rust | 📅 2026-07-30
+* Rewriting sysctl(8) in Rust: [systeroid](https://blog.orhun.dev/rewriting-sysctl-in-rust/). [repo](https://github.com/orhun/systeroid) ⭐ 1,472 | 🐛 17 | 🌐 Rust | 📅 2026-07-30
 * [Comparison of Rust async and Linux thread context switch time and memory use](https://github.com/jimblandy/context-switch) ⭐ 757 | 🐛 2 | 🌐 Rust | 📅 2024-11-16
 * [execution-trace-viewer](https://github.com/teemu-l/execution-trace-viewer) ⭐ 325 | 🐛 6 | 🌐 Python | 📅 2021-03-18: Tool for viewing and analyzing execution traces
 * [Optimizing-Linux-Performance-A-Hands-On-Guide-to-Linux-Performance-Tools](https://github.com/sahilshekhawat/Optimizing-Linux-Performance-A-Hands-On-Guide-to-Linux-Performance-Tools?files=1) ⭐ 70 | 🐛 0 | 📅 2016-02-12
@@ -123,24 +123,24 @@ APFS FUSE Driver for Linux
 
 #### Monitoring
 
-* [netdata](https://my-netdata.io/): Real-time performance monitoring, done right! [github](https://github.com/netdata/netdata) ⭐ 80,783 | 🐛 426 | 🌐 Go | 📅 2026-10-03.
+* [netdata](https://my-netdata.io/): Real-time performance monitoring, done right! [github](https://github.com/netdata/netdata) ⭐ 80,788 | 🐛 430 | 🌐 Go | 📅 2026-10-04.
 * [Watchman](https://github.com/facebook/watchman) ⭐ 13,733 | 🐛 260 | 🌐 C++ | 📅 2026-10-03: Watches files and records, or triggers actions, when they change.
-* [magic-trace](https://github.com/janestreet/magic-trace) ⭐ 6,285 | 🐛 74 | 🌐 OCaml | 📅 2026-08-19:  collects and displays high-resolution traces of what a process is doing.
-* [hotspot](https://github.com/kdab/hotspot) ⭐ 5,175 | 🐛 80 | 🌐 C++ | 📅 2026-09-09: The Linux perf GUI for performance analysis.
-* [cartography](https://github.com/lyft/cartography) ⭐ 4,118 | 🐛 137 | 🌐 Python | 📅 2026-10-02: Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
+* [magic-trace](https://github.com/janestreet/magic-trace) ⭐ 6,286 | 🐛 74 | 🌐 OCaml | 📅 2026-08-19:  collects and displays high-resolution traces of what a process is doing.
+* [hotspot](https://github.com/kdab/hotspot) ⭐ 5,176 | 🐛 80 | 🌐 C++ | 📅 2026-09-09: The Linux perf GUI for performance analysis.
+* [cartography](https://github.com/lyft/cartography) ⭐ 4,119 | 🐛 137 | 🌐 Python | 📅 2026-10-02: Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 * [hardinfo](https://github.com/lpereira/hardinfo) ⭐ 820 | 🐛 155 | 🌐 C | 📅 2026-09-06: System profiler and benchmark tool for Linux systems
 * [Busychild](https://github.com/h0mbre/busychild) ⭐ 25 | 🐛 0 | 🌐 Rust | 📅 2020-09-05: a pstree mod that prints other helpful information and with added functionality
 * Sysmon on Linux:
-  * [Install Sysmon](https://github.com/Sysinternals/SysmonForLinux/blob/main/INSTALL.md) ⭐ 2,162 | 🐛 41 | 🌐 C | 📅 2026-09-14
-  * [Sysmon For Linux Lab Environment](https://github.com/OTRF/Azure-Sentinel2Go/tree/master/grocery-list/Linux/demos/Sysmon-For-Linux) ⭐ 596 | 🐛 2 | 🌐 PowerShell | 📅 2025-01-22
-  * [Install-Sysmon-For-Linux.sh](https://github.com/OTRF/Blacksmith/blob/master/resources/scripts/bash/Install-Sysmon-For-Linux.sh) ⭐ 335 | 🐛 2 | 🌐 PowerShell | 📅 2026-01-09
+  * [Install Sysmon](https://github.com/Sysinternals/SysmonForLinux/blob/main/INSTALL.md) ⭐ 2,164 | 🐛 41 | 🌐 C | 📅 2026-09-14
+  * [Sysmon For Linux Lab Environment](https://github.com/OTRF/Azure-Sentinel2Go/tree/master/grocery-list/Linux/demos/Sysmon-For-Linux) ⭐ 597 | 🐛 2 | 🌐 PowerShell | 📅 2025-01-22
+  * [Install-Sysmon-For-Linux.sh](https://github.com/OTRF/Blacksmith/blob/master/resources/scripts/bash/Install-Sysmon-For-Linux.sh) ⭐ 336 | 🐛 2 | 🌐 PowerShell | 📅 2026-01-09
   * [Install SysinternalsEBPF](https://github.com/Sysinternals/SysinternalsEBPF/blob/main/INSTALL.md) ⭐ 288 | 🐛 15 | 🌐 C | 📅 2026-09-14
   * [Automating the deployment of Sysmon for Linux 🐧 and Azure Sentinel in a lab environment](https://techcommunity.microsoft.com/t5/azure-sentinel/automating-the-deployment-of-sysmon-for-linux-and-azure-sentinel/ba-p/2847054)
 * [An intro to finding things in Linux](https://www.madebygps.com/an-intro-to-finding-things-in-linux/)
 
 ### Red Hat/Fedora
 
-* [Software Galaxies](https://github.com/anvaka/pm) ⭐ 1,788 | 🐛 33 | 🌐 JavaScript | 📅 2026-06-24: package managers visualization, [see it](https://anvaka.github.io/pm/)
+* [Software Galaxies](https://github.com/anvaka/pm) ⭐ 1,789 | 🐛 33 | 🌐 JavaScript | 📅 2026-06-24: package managers visualization, [see it](https://anvaka.github.io/pm/)
 * Yum to DNF [Cheatsheet](https://fedoraproject.org/wiki/Yum_to_DNF_Cheatsheet)
 * [How to reset a root password on Fedora](https://fedoramagazine.org/reset-root-password-fedora/)
 * [Use restic on Fedora for encrypted backups](https://fedoramagazine.org/use-restic-encrypted-backups/)
@@ -163,9 +163,9 @@ APFS FUSE Driver for Linux
  > sudo dnf install vlc
 ```
 
-* [conky](https://github.com/brndnmtthws/conky/wiki/Installation) ⭐ 8,531 | 🐛 73 | 🌐 C++ | 📅 2026-10-03: Light-weight system monitor for X.
+* [conky](https://github.com/brndnmtthws/conky/wiki/Installation) ⭐ 8,530 | 🐛 73 | 🌐 C++ | 📅 2026-10-03: Light-weight system monitor for X.
 * [Fedy](https://github.com/rpmfusion-infra/fedy) ⭐ 211 | 🐛 29 | 🌐 Shell | 📅 2026-07-28 makes it easy to install third-party software in Fedora.
-* [bodhi](https://github.com/fedora-infra/bodhi) ⭐ 179 | 🐛 325 | 🌐 Python | 📅 2026-09-30: Bodhi is a web-system that facilitates the process of publishing updates for a Fedora-based software distribution.
+* [bodhi](https://github.com/fedora-infra/bodhi) ⭐ 179 | 🐛 323 | 🌐 Python | 📅 2026-10-04: Bodhi is a web-system that facilitates the process of publishing updates for a Fedora-based software distribution.
 * [mirrormanager2](https://github.com/fedora-infra/mirrormanager2) ⭐ 69 | 🐛 50 | 🌐 Python | 📅 2026-09-25: Rewrite of the MirrorManager application in Flask and SQLAlchemy.
 * [fedora-messaging](https://github.com/fedora-infra/fedora-messaging) ⭐ 59 | 🐛 46 | 🌐 Python | 📅 2026-09-26: A library for sending AMQP messages with JSON schema in Fedora infrastructure.
 * [the-new-hotness](https://github.com/fedora-infra/the-new-hotness) ⭐ 48 | 🐛 14 | 🌐 Python | 📅 2026-08-25: A fedmsg consumer that files bugzilla bugs for upstream releases.
@@ -193,7 +193,7 @@ APFS FUSE Driver for Linux
 
 ### Packaging
 
-* [Nixpkgs](https://github.com/NixOS/nixpkgs) ⭐ 26,326 | 🐛 21,813 | 🌐 Nix | 📅 2026-10-03: is a collection of packages for the Nix package manager. It is periodically built and tested by the Hydra build daemon as so-called channels.
+* [Nixpkgs](https://github.com/NixOS/nixpkgs) ⭐ 26,338 | 🐛 21,805 | 🌐 Nix | 📅 2026-10-04: is a collection of packages for the Nix package manager. It is periodically built and tested by the Hydra build daemon as so-called channels.
 * [Linux brew](https://linuxbrew.sh/): Linuxbrew is a fork of Homebrew, the macOS package manager, for Linux. [github](https://github.com/Linuxbrew/brew) ⚠️ Archived
 * [warp](https://github.com/dgiagio/warp) ⭐ 1,961 | 🐛 41 | 🌐 Rust | 📅 2024-05-18: Create self-contained single binary applications
 * [Crev](https://github.com/crev-dev/crev) ⭐ 430 | 🐛 7 | 📅 2022-01-18: Socially scalable Code REView and recommendation system that we desperately need.
@@ -225,7 +225,7 @@ APFS FUSE Driver for Linux
 * [Tutorial: ClamAV-Antivirus-Scanning in Nextcloud implementieren](https://ollis.blog/tutorial-clamav-antivirus-scanning-in-nextcloud-implementieren/)
 * [Mapping UID and GID of local user to the mounted NFS share - Server Fault](https://serverfault.com/questions/514118/mapping-uid-and-gid-of-local-user-to-the-mounted-nfs-share)
 * Synology Resources:
-  * [spksrc](https://github.com/SynoCommunity/spksrc) ⭐ 3,214 | 🐛 222 | 🌐 C | 📅 2026-10-02: Cross compilation framework to create native packages for the Synology's NAS
+  * [spksrc](https://github.com/SynoCommunity/spksrc) ⭐ 3,215 | 🐛 223 | 🌐 C | 📅 2026-10-04: Cross compilation framework to create native packages for the Synology's NAS
   * [Synomon](http://dottoremoe.com/synomon/)
   * [SynoCommunity](https://synocommunity.com/)
 * [ELSA](https://arxiv.org/pdf/1810.11888.pdf): Efficient Long-Term Secure Storage of Large Datasets
@@ -241,9 +241,9 @@ APFS FUSE Driver for Linux
 
 #### Databases
 
-* [nocodb](https://github.com/nocodb/nocodb/) ⭐ 65,164 | 🐛 709 | 🌐 TypeScript | 📅 2026-10-03: The Open Source Airtable alternative
-* [ClickHouse](https://github.com/ClickHouse/ClickHouse) ⭐ 50,214 | 🐛 7,994 | 🌐 C++ | 📅 2026-10-03: is a free analytics DBMS for big data.
-* [PostgREST](https://postgrest.org/en/v6.0/): is a standalone web server that turns your PostgreSQL database directly into a RESTful API. [repo](https://github.com/PostgREST/postgrest) ⭐ 27,692 | 🐛 404 | 🌐 Haskell | 📅 2026-10-02
+* [nocodb](https://github.com/nocodb/nocodb/) ⭐ 65,177 | 🐛 709 | 🌐 TypeScript | 📅 2026-10-03: The Open Source Airtable alternative
+* [ClickHouse](https://github.com/ClickHouse/ClickHouse) ⭐ 50,228 | 🐛 8,003 | 🌐 C++ | 📅 2026-10-04: is a free analytics DBMS for big data.
+* [PostgREST](https://postgrest.org/en/v6.0/): is a standalone web server that turns your PostgreSQL database directly into a RESTful API. [repo](https://github.com/PostgREST/postgrest) ⭐ 27,693 | 🐛 401 | 🌐 Haskell | 📅 2026-10-04
 * [Postgres Is Underrated—It Handles More than You Think](https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3)
 * [Postgres is a great pub/sub & job server](https://layerci.com/blog/postgres-is-the-answer/)
 * [Port 5432 is open](https://www.splitgraph.com/blog/data-delivery-network-launch): introducing the Splitgraph Data Delivery Network.
@@ -258,7 +258,7 @@ APFS FUSE Driver for Linux
 
 * [Evolution of Application Data Caching : From RAM to SSD](https://medium.com/netflix-techblog/evolution-of-application-data-caching-from-ram-to-ssd-a33d6fa7a690)
   * [EVCache](https://github.com/Netflix/EVCache) ⭐ 2,224 | 🐛 21 | 🌐 Java | 📅 2026-10-02: A distributed in-memory data store for the cloud
-  * [extstore](https://github.com/memcached/memcached/wiki/Extstore) ⭐ 14,287 | 🐛 110 | 🌐 C | 📅 2026-09-11: is an addition to memcached which leaves the hash table and keys in memory, but moves values to external storage (usually flash).
+  * [extstore](https://github.com/memcached/memcached/wiki/Extstore) ⭐ 14,288 | 🐛 110 | 🌐 C | 📅 2026-09-11: is an addition to memcached which leaves the hash table and keys in memory, but moves values to external storage (usually flash).
 
 ## Automation
 
@@ -277,7 +277,7 @@ APFS FUSE Driver for Linux
 
 ### Ansible
 
-* [Red Hat Ansible Automation Platform Workshops](https://ansible.github.io/workshops/) [repo](https://github.com/ansible/workshops) ⭐ 1,870 | 🐛 31 | 🌐 Jinja | 📅 2026-09-15 - Training Course for Ansible Automation Platform.
+* [Red Hat Ansible Automation Platform Workshops](https://ansible.github.io/workshops/) [repo](https://github.com/ansible/workshops) ⭐ 1,871 | 🐛 31 | 🌐 Jinja | 📅 2026-09-15 - Training Course for Ansible Automation Platform.
 * Some usefull ansible playbooks, scripts and tips on [ansible](./ansible) dir.
   * [Ansible role to install and manage nginx configuration](https://github.com/jdauphant/ansible-role-nginx) ⚠️ Archived
   * [ansible.posix](https://github.com/ansible-collections/ansible.posix) ⭐ 206 | 🐛 197 | 🌐 Python | 📅 2026-09-16
@@ -332,22 +332,22 @@ ansible_python_interpreter=/usr/bin/python3
 
 ### Hardening
 
-* [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) ⭐ 31,749 | 🐛 33 | 📅 2026-09-07: An evolving how-to guide for securing a Linux server.
+* [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) ⭐ 31,755 | 🐛 33 | 📅 2026-09-07: An evolving how-to guide for securing a Linux server.
 * [Streisand](https://github.com/StreisandEffect/streisand) ⚠️ Archived sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
-* [prowler](https://github.com/toniblyx/prowler) ⭐ 14,917 | 🐛 391 | 🌐 Python | 📅 2026-10-02: AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark and additional checks. Official CIS for [AWS guide](https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf).
-* [This is a practical guide to using YubiKey as a SmartCard for storing GPG encryption and signing keys.](https://github.com/drduh/YubiKey-Guide) ⭐ 12,487 | 🐛 8 | 🌐 HTML | 📅 2026-09-21
-* [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) ⭐ 10,848 | 🐛 10 | 📅 2024-11-19: 🔥 This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress.
+* [prowler](https://github.com/toniblyx/prowler) ⭐ 14,930 | 🐛 410 | 🌐 Python | 📅 2026-10-03: AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark and additional checks. Official CIS for [AWS guide](https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf).
+* [This is a practical guide to using YubiKey as a SmartCard for storing GPG encryption and signing keys.](https://github.com/drduh/YubiKey-Guide) ⭐ 12,485 | 🐛 8 | 🌐 HTML | 📅 2026-09-21
+* [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) ⭐ 10,849 | 🐛 10 | 📅 2024-11-19: 🔥 This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress.
 * [Securing Docker Containers](https://0x00sec.org/t/securing-docker-containers/16913). [The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.](https://github.com/docker/docker-bench-security) ⭐ 9,701 | 🐛 28 | 🌐 Shell | 📅 2026-06-04
-* [Endlessh](https://github.com/skeeto/endlessh) ⭐ 8,563 | 🐛 49 | 🌐 C | 📅 2024-06-03: an SSH tarpit.
-* [firejail](https://github.com/netblue30/firejail) ⭐ 7,686 | 🐛 527 | 🌐 C | 📅 2026-10-02: Linux namespaces and seccomp-bpf [sandbox](https://wiki.archlinux.org/title/firejail).
-* [yubikey-ssh-setup](https://github.com/jessfraz/dotfiles/blob/master/bin/yubikey-ssh-setup) ⭐ 3,564 | 🐛 0 | 🌐 Shell | 📅 2026-10-02
+* [Endlessh](https://github.com/skeeto/endlessh) ⭐ 8,561 | 🐛 49 | 🌐 C | 📅 2024-06-03: an SSH tarpit.
+* [firejail](https://github.com/netblue30/firejail) ⭐ 7,687 | 🐛 528 | 🌐 C | 📅 2026-10-03: Linux namespaces and seccomp-bpf [sandbox](https://wiki.archlinux.org/title/firejail).
+* [yubikey-ssh-setup](https://github.com/jessfraz/dotfiles/blob/master/bin/yubikey-ssh-setup) ⭐ 3,565 | 🐛 0 | 🌐 Shell | 📅 2026-10-02
 * [List of sites with two factor auth](https://github.com/2factorauth/twofactorauth) ⭐ 3,466 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-25
-* [Hardentools](https://github.com/securitywithoutborders/hardentools) ⭐ 3,112 | 🐛 12 | 🌐 Go | 📅 2025-08-10 is a utility that disables a number of risky Windows features.
+* [Hardentools](https://github.com/securitywithoutborders/hardentools) ⭐ 3,111 | 🐛 12 | 🌐 Go | 📅 2025-08-10 is a utility that disables a number of risky Windows features.
 * [kconfig-hardened-check](https://github.com/a13xp0p0v/kconfig-hardened-check) ⭐ 2,139 | 🐛 12 | 🌐 Python | 📅 2026-09-19: A tool for checking the hardening options in the Linux kernel config
 * [Awesome Windows Domain Hardening](https://github.com/PaulSec/awesome-windows-domain-hardening) ⭐ 1,802 | 🐛 1 | 📅 2020-01-07: A curated list of awesome Security Hardening techniques for Windows.
-* [Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist) ⭐ 1,647 | 🐛 5 | 📅 2024-11-19: This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
-* [Iptables Essentials](https://github.com/trimstray/iptables-essentials) ⭐ 1,591 | 🐛 4 | 📅 2024-11-19: Common Firewall Rules and Commands.
-* [iptables-essentials](https://github.com/trimstray/iptables-essentials) ⭐ 1,591 | 🐛 4 | 📅 2024-11-19: Iptables Essentials: Common Firewall Rules and Commands.
+* [Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist) ⭐ 1,648 | 🐛 5 | 📅 2024-11-19: This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
+* [Iptables Essentials](https://github.com/trimstray/iptables-essentials) ⭐ 1,592 | 🐛 4 | 📅 2024-11-19: Common Firewall Rules and Commands.
+* [iptables-essentials](https://github.com/trimstray/iptables-essentials) ⭐ 1,592 | 🐛 4 | 📅 2024-11-19: Iptables Essentials: Common Firewall Rules and Commands.
 * [debian-cis](https://github.com/ovh/debian-cis) ⭐ 1,074 | 🐛 18 | 🌐 Shell | 📅 2026-09-11: PCI-DSS compliant Debian 7/8 hardening.
 * [opmsg](https://github.com/stealth/opmsg) ⭐ 758 | 🐛 3 | 🌐 C++ | 📅 2023-03-02: is a replacement for gpg which can encrypt/sign/verify your mails or create/verify detached signatures of local files. Even though the opmsg output looks similar, the concept is entirely different.
 * [ERNW Repository of Hardening Guides](https://github.com/ernw/hardening) ⭐ 653 | 🐛 3 | 📅 2026-10-01: This repository contains various hardening guides compiled by ERNW for various purposes.
@@ -392,7 +392,7 @@ ansible_python_interpreter=/usr/bin/python3
 
 ### WebServers
 
-* [ENVOY](https://www.envoyproxy.io/) is an open source edge and service proxy, designed for cloud-native applications. [code](https://github.com/envoyproxy/envoy) ⭐ 29,035 | 🐛 1,857 | 🌐 C++ | 📅 2026-10-03
+* [ENVOY](https://www.envoyproxy.io/) is an open source edge and service proxy, designed for cloud-native applications. [code](https://github.com/envoyproxy/envoy) ⭐ 29,038 | 🐛 1,852 | 🌐 C++ | 📅 2026-10-03
 * [NFHTTP](https://github.com/spotify/NFHTTP) ⭐ 586 | 🐛 16 | 🌐 C | 📅 2023-05-23: A cross platform C++ HTTP library that interfaces natively to other platforms.
 * [dotdotslash](https://github.com/jcesarstef/dotdotslash) ⭐ 463 | 🐛 9 | 🌐 Python | 📅 2026-01-11: An tool to help you search for Directory Traversal Vulnerabilities
 * [ghp](https://github.com/CurtisLusmore/ghp) ⭐ 262 | 🐛 2 | 🌐 Go | 📅 2019-01-31: A simple web server for serving static GitHub Pages locally
@@ -437,9 +437,9 @@ ansible_python_interpreter=/usr/bin/python3
 
 #### Tokens
 
-* [YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) ⭐ 12,487 | 🐛 8 | 🌐 HTML | 📅 2026-09-21: Guide to using YubiKey for GPG and SSH
-* [This is a practical guide to using YubiKey as a SmartCard for storing GPG encryption and signing keys.](https://github.com/drduh/YubiKey-Guide) ⭐ 12,487 | 🐛 8 | 🌐 HTML | 📅 2026-09-21
-* [yubikey-ssh-setup](https://github.com/jessfraz/dotfiles/blob/master/bin/yubikey-ssh-setup) ⭐ 3,564 | 🐛 0 | 🌐 Shell | 📅 2026-10-02
+* [YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) ⭐ 12,485 | 🐛 8 | 🌐 HTML | 📅 2026-09-21: Guide to using YubiKey for GPG and SSH
+* [This is a practical guide to using YubiKey as a SmartCard for storing GPG encryption and signing keys.](https://github.com/drduh/YubiKey-Guide) ⭐ 12,485 | 🐛 8 | 🌐 HTML | 📅 2026-09-21
+* [yubikey-ssh-setup](https://github.com/jessfraz/dotfiles/blob/master/bin/yubikey-ssh-setup) ⭐ 3,565 | 🐛 0 | 🌐 Shell | 📅 2026-10-02
 * [YubiKey at Datadog](https://github.com/DataDog/yubikey) ⚠️ Archived
 * [URU Card](https://en.ovcharov.me/2020/06/29/uru-card-arduino-fido2-authenticator/): Arduino FIDO2 Authenticator. [uru-card](https://github.com/uru-card/uru-card) ⭐ 192 | 🐛 9 | 🌐 C++ | 📅 2023-01-05
 * [Use YubiKey security key to sign into AWS Management Console with YubiKey for multi-factor authentication](https://aws.amazon.com/pt/blogs/security/use-yubikey-security-key-sign-into-aws-management-console/)
@@ -457,13 +457,13 @@ ansible_python_interpreter=/usr/bin/python3
 
 ### Privacy
 
-* [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist/) ⭐ 22,441 | 🐛 42 | 🌐 TypeScript | 📅 2026-10-01: 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
+* [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist/) ⭐ 22,451 | 🐛 42 | 🌐 TypeScript | 📅 2026-10-01: 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
 * [noisy](https://github.com/1tayH/noisy) ⭐ 1,780 | 🐛 21 | 🌐 Python | 📅 2023-11-25: Simple random DNS, HTTP/S internet traffic noise generator
 * [GlobaLeaks](https://github.com/globaleaks/GlobaLeaks) ⭐ 1,518 | 🐛 634 | 🌐 Python | 📅 2026-10-02 is free, open source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
 * [EndWare](https://github.com/endwall2/endware) ⭐ 53 | 🐛 1 | 🌐 Shell | 📅 2023-09-26: is a collection of scripts and configuration files geared towards promoting computer security, anonymity, and privacy. These tools will grow overtime.
 * [Privacy and Anonimity Tools](https://twitter.com/hackermaderas/status/1222179758202662918)
 * [pi-hole](https://pi-hole.net/):
-  * [Pihole Adlist Tool](https://github.com/yubiuser/pihole_adlist_tool) ⭐ 544 | 🐛 4 | 🌐 Shell | 📅 2026-06-20: An tool to analyse how your pihole adlists cover you browsing behavior
+  * [Pihole Adlist Tool](https://github.com/yubiuser/pihole_adlist_tool) ⭐ 548 | 🐛 4 | 🌐 Shell | 📅 2026-06-20: An tool to analyse how your pihole adlists cover you browsing behavior
   * [Public ad-blocking DNS service built on Pi-hole.](https://pi-dns.com/)
   * [AdBlocking VPN Proxy Server](https://blog.richardcrosby.co.uk/adblocking-vpn-proxy-server-pi-hole-wireguard-privoxy-unbound/)(Pi-hole, Wireguard, Privoxy, Unbound)
   * [Internal Domains with DNSMasq and Pi-Hole](https://dev.to/stjohnjohnson/internal-domains-with-dnsmasq-and-pi-hole-4cof) [files](https://gist.github.com/stjohnjohnson/d441e26e4d77a975fd3ebb4e6f19e3d6)
@@ -494,12 +494,12 @@ ansible_python_interpreter=/usr/bin/python3
 
 ## Continuous Integration
 
-* [Terraform](https://www.terraform.io/intro/index.html) ([github repo](https://github.com/hashicorp/terraform) ⭐ 49,817 | 🐛 1,930 | 🌐 Go | 📅 2026-10-02)
-* [k6](https://github.com/loadimpact/k6) ⭐ 31,763 | 🐛 780 | 🌐 Go | 📅 2026-10-02: A modern load testing tool, using Go and JavaScript
-* [bazel](https://bazel.build): Build and test software of any size, quickly and reliably. [Bazel is a fast, scalable, multi-language and extensible build system](https://github.com/bazelbuild/bazel) ⭐ 25,913 | 🐛 1,830 | 🌐 Java | 📅 2026-10-02
-* [OSS-Fuzz](https://github.com/google/oss-fuzz) ⭐ 12,688 | 🐛 791 | 🌐 Shell | 📅 2026-10-02 - Continuous Fuzzing for Open Source Software
+* [Terraform](https://www.terraform.io/intro/index.html) ([github repo](https://github.com/hashicorp/terraform) ⭐ 49,825 | 🐛 1,934 | 🌐 Go | 📅 2026-10-02)
+* [k6](https://github.com/loadimpact/k6) ⭐ 31,771 | 🐛 781 | 🌐 Go | 📅 2026-10-02: A modern load testing tool, using Go and JavaScript
+* [bazel](https://bazel.build): Build and test software of any size, quickly and reliably. [Bazel is a fast, scalable, multi-language and extensible build system](https://github.com/bazelbuild/bazel) ⭐ 25,918 | 🐛 1,867 | 🌐 Java | 📅 2026-10-02
+* [OSS-Fuzz](https://github.com/google/oss-fuzz) ⭐ 12,689 | 🐛 791 | 🌐 Shell | 📅 2026-10-02 - Continuous Fuzzing for Open Source Software
 * [Spinnaker](https://github.com/spinnaker/spinnaker) ⭐ 9,798 | 🐛 110 | 🌐 Java | 📅 2026-10-02: is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
-* [Terratest](https://github.com/gruntwork-io/terratest) ⭐ 7,970 | 🐛 13 | 🌐 Go | 📅 2026-10-01: is a Go library that makes it easier to write automated tests for your infrastructure code.
+* [Terratest](https://github.com/gruntwork-io/terratest) ⭐ 7,971 | 🐛 13 | 🌐 Go | 📅 2026-10-01: is a Go library that makes it easier to write automated tests for your infrastructure code.
 * [Danger](https://github.com/danger/danger) ⭐ 5,692 | 🐛 168 | 🌐 Ruby | 📅 2026-07-29 runs after your CI, automating your team's conventions surrounding code review.
 * [PyUP](https://pyup.io/): Automated Python Security and Dependency Updates. [github](https://github.com/pyupio/pyup) ⭐ 469 | 🐛 76 | 🌐 Python | 📅 2021-06-24
 * [The centralized Danger server, freeing Danger from running on CI.](https://github.com/danger/peril) ⭐ 460 | 🐛 52 | 🌐 TypeScript | 📅 2022-05-03
@@ -553,23 +553,23 @@ ansible_python_interpreter=/usr/bin/python3
 
 ## Interfaces
 
-* [A sysadmin login session in a web browser](https://github.com/cockpit-project/cockpit) ⭐ 15,173 | 🐛 496 | 🌐 Python | 📅 2026-10-02
-* [nextspace](https://github.com/trunkmaster/nextspace) ⭐ 2,107 | 🐛 47 | 🌐 Objective-C | 📅 2026-05-27: NeXTSTEP-like desktop environment for Linux
+* [A sysadmin login session in a web browser](https://github.com/cockpit-project/cockpit) ⭐ 15,177 | 🐛 497 | 🌐 Python | 📅 2026-10-04
+* [nextspace](https://github.com/trunkmaster/nextspace) ⭐ 2,108 | 🐛 47 | 🌐 Objective-C | 📅 2026-05-27: NeXTSTEP-like desktop environment for Linux
 * [tinywm](http://incise.org/tinywm.html): The tiniest window manager. [github](https://github.com/mackstann/tinywm) ⭐ 1,676 | 🐛 7 | 🌐 C | 📅 2022-03-09
 * [Term VM](https://gitlab.com/jD91mZM2/termwm): A floating WM of terminals inside your terminal
 
 ## Troubleshooting
 
-* [sysdig](https://github.com/draios/sysdig) ⭐ 8,298 | 🐛 116 | 🌐 C++ | 📅 2026-04-13: Linux system exploration and troubleshooting tool with first class support for containers
-* [drltrace](https://github.com/mxmssh/drltrace) ⭐ 419 | 🐛 16 | 🌐 HTML | 📅 2020-08-16: Drltrace is a library calls tracer for Windows and Linux applications.
+* [sysdig](https://github.com/draios/sysdig) ⭐ 8,300 | 🐛 116 | 🌐 C++ | 📅 2026-04-13: Linux system exploration and troubleshooting tool with first class support for containers
+* [drltrace](https://github.com/mxmssh/drltrace) ⭐ 419 | 🐛 17 | 🌐 HTML | 📅 2020-08-16: Drltrace is a library calls tracer for Windows and Linux applications.
 * [rbspy](https://rbspy.github.io/): Have a running Ruby program that you want to profile without restarting it? Want to profile a Ruby command line program really easily? You want rbspy! rbspy can profile any Ruby program by running 1 command.
 
 ### Logs
 
-* [Sigma](https://github.com/Neo23x0/sigma) ⭐ 11,148 | 🐛 232 | 🌐 Python | 📅 2026-10-02: Generic Signature Format for SIEM Systems
-* [The Log File Navigator](https://lnav.org/downloads/) ([github](https://github.com/tstack/lnav) ⭐ 10,719 | 🐛 293 | 🌐 C++ | 📅 2026-10-02)
-* [RisingWave](https://github.com/risingwavelabs/risingwave) ⭐ 9,358 | 🐛 1,745 | 🌐 Rust | 📅 2026-10-03: Real-time event streaming platform. real-time data ingestion, stream processing, online serving, and data management.
-* [fluent-bit](https://github.com/fluent/fluent-bit) ⭐ 8,130 | 🐛 771 | 🌐 C | 📅 2026-10-02: Fast and Lightweight Log processor and forwarder for Linux, BSD and OSX
+* [Sigma](https://github.com/Neo23x0/sigma) ⭐ 11,151 | 🐛 236 | 🌐 Python | 📅 2026-10-02: Generic Signature Format for SIEM Systems
+* [The Log File Navigator](https://lnav.org/downloads/) ([github](https://github.com/tstack/lnav) ⭐ 10,719 | 🐛 293 | 🌐 C++ | 📅 2026-10-03)
+* [RisingWave](https://github.com/risingwavelabs/risingwave) ⭐ 9,359 | 🐛 1,748 | 🌐 Rust | 📅 2026-10-04: Real-time event streaming platform. real-time data ingestion, stream processing, online serving, and data management.
+* [fluent-bit](https://github.com/fluent/fluent-bit) ⭐ 8,130 | 🐛 770 | 🌐 C | 📅 2026-10-04: Fast and Lightweight Log processor and forwarder for Linux, BSD and OSX
 * [GoAccess - Visual Web Log Analyzer](https://goaccess.io/)
 * [Slagg](https://github.com/drrzmr/slagg) - Simple Log Aggregator
 * [Logging best practices to get the most out of application level logging](https://geshan.com.np/blog/2019/03/follow-these-logging-best-practices-to-get-the-most-out-of-application-level-logging-slides/)
@@ -577,7 +577,7 @@ ansible_python_interpreter=/usr/bin/python3
 
 ### Benchmarks
 
-* [hardware-effects](https://github.com/Kobzol/hardware-effects) ⭐ 3,003 | 🐛 11 | 🌐 C++ | 📅 2024-02-29: Demonstration of various hardware effects.
+* [hardware-effects](https://github.com/Kobzol/hardware-effects) ⭐ 3,004 | 🐛 11 | 🌐 C++ | 📅 2024-02-29: Demonstration of various hardware effects.
 * [PrIM](https://github.com/CMU-SAFARI/prim-benchmarks) ⭐ 180 | 🐛 6 | 🌐 C | 📅 2026-06-08(Processing-In-Memory Benchmarks) is the first benchmark suite for a real-world processing-in-memory (PIM) architecture. PrIM is developed to evaluate, analyze, and characterize the first publicly-available real-world PIM architecture, the UPMEM PIM architecture. Described by Gómez-Luna et al. [preliminary version](https://arxiv.org/abs/2105.03814)
 * [test-profiles](https://github.com/phoronix-test-suite/test-profiles) ⭐ 76 | 🐛 103 | 🌐 Shell | 📅 2024-12-08: A read-only Git copy of the OpenBenchmarking.org test profiles.
 
@@ -591,12 +591,12 @@ ansible_python_interpreter=/usr/bin/python3
 ## Network
 
 * [BCC](https://github.com/iovisor/bcc) ⭐ 22,693 | 🐛 1,076 | 🌐 C | 📅 2026-10-02: Tools for BPF-based Linux IO analysis, networking, monitoring, and more
-* [netbox](https://github.com/digitalocean/netbox) ⭐ 21,644 | 🐛 230 | 🌐 Python | 📅 2026-10-02: IP address management (IPAM) and data center infrastructure management (DCIM) tool.
-* [Zuul](https://github.com/Netflix/zuul) ⭐ 14,082 | 🐛 14 | 🌐 Java | 📅 2026-10-01 is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
-* [Scapy](https://github.com/secdev/scapy/) ⭐ 12,580 | 🐛 139 | 🌐 Python | 📅 2026-10-02: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
+* [netbox](https://github.com/digitalocean/netbox) ⭐ 21,649 | 🐛 229 | 🌐 Python | 📅 2026-10-02: IP address management (IPAM) and data center infrastructure management (DCIM) tool.
+* [Zuul](https://github.com/Netflix/zuul) ⭐ 14,083 | 🐛 14 | 🌐 Java | 📅 2026-10-01 is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
+* [Scapy](https://github.com/secdev/scapy/) ⭐ 12,581 | 🐛 140 | 🌐 Python | 📅 2026-10-02: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
 * [gRPC](https://grpc.io/) is a modern open source high performance Remote Procedure Call (RPC) framework that can run in any environment. It can efficiently connect services in and across data centers with pluggable support for load balancing, tracing, health checking and authentication. It is also applicable in last mile of distributed computing to connect devices, mobile applications and browsers to backend services. [Awesome gRPC](https://github.com/grpc-ecosystem/awesome-grpc) ⭐ 8,356 | 🐛 28 | 📅 2025-10-28
-* [Convert curl syntax to Python](https://curl.trillworks.com). [curlconverter](https://github.com/NickCarneiro/curlconverter/) ⭐ 8,174 | 🐛 43 | 🌐 TypeScript | 📅 2026-03-10
-* [Nethogs](https://github.com/raboof/nethogs) ⭐ 3,696 | 🐛 104 | 🌐 C++ | 📅 2026-07-23: NetHogs is a small 'net top' tool. Instead of breaking the traffic down per protocol or per subnet, like most tools do, it groups bandwidth by process.
+* [Convert curl syntax to Python](https://curl.trillworks.com). [curlconverter](https://github.com/NickCarneiro/curlconverter/) ⭐ 8,173 | 🐛 43 | 🌐 TypeScript | 📅 2026-03-10
+* [Nethogs](https://github.com/raboof/nethogs) ⭐ 3,697 | 🐛 104 | 🌐 C++ | 📅 2026-07-23: NetHogs is a small 'net top' tool. Instead of breaking the traffic down per protocol or per subnet, like most tools do, it groups bandwidth by process.
 * [concurrency-limits](https://github.com/Netflix/concurrency-limits) ⭐ 3,616 | 🐛 54 | 🌐 Java | 📅 2026-01-16: Java Library that implements and integrates concepts from TCP congestion control to auto-detect concurrency limits to achieve optimal throughput with optimal latency \[ [article](https://medium.com/@NetflixTechBlog/performance-under-load-3e6fa9a60581) ].
 * [gev](https://github.com/Allenxuxu/gev) ⭐ 1,774 | 🐛 14 | 🌐 Go | 📅 2025-06-07: is a lightweight, fast non-blocking TCP network library based on Reactor mode.
 * [grpc-tools](https://github.com/bradleyjkemp/grpc-tools) ⭐ 1,241 | 🐛 39 | 🌐 Go | 📅 2023-11-14: A suite of gRPC debugging tools. Like Fiddler/Charles but for gRPC.
@@ -605,7 +605,7 @@ ansible_python_interpreter=/usr/bin/python3
 * [openrsync](https://github.com/kristapsdz/openrsync) ⭐ 937 | 🐛 8 | 🌐 C | 📅 2026-07-30: clean-room BSD-licensed implementation of rsync. [imported into the tree](https://undeadly.org/cgi?action=article;sid=20190211081518)
 * [CORE](https://github.com/coreemu/core) ⭐ 832 | 🐛 38 | 🌐 Python | 📅 2026-06-02: Common Open Research Emulator.
 * The Multipath TCP Daemon [mptcpd](https://github.com/intel/mptcpd) ⭐ 238 | 🐛 42 | 🌐 C | 📅 2025-12-19- is a daemon for Linux based operating systems that performs multipath TCP path management related operations in the user space. It interacts with the Linux kernel through a generic netlink connection to track per-connection information (e.g. available remote addresses), available network interfaces, request ne…
-* [bnet](https://github.com/bkaradzic/bnet) ⭐ 159 | 🐛 0 | 🌐 C++ | 📅 2026-09-26: Message oriented networking library using TCP transport.
+* [bnet](https://github.com/bkaradzic/bnet) ⭐ 159 | 🐛 0 | 🌐 C++ | 📅 2026-10-03: Message oriented networking library using TCP transport.
 * [TCP Tracepoints](http://www.brendangregg.com/blog/2018-03-22/tcp-tracepoints.html)
 * [dhcpcd](https://roy.marples.name/git/dhcpcd.git/)
 * [Debugging HTTPS](http://vafer.org/blog/20080221152526/)
@@ -632,11 +632,11 @@ ansible_python_interpreter=/usr/bin/python3
 
 ### Network Troubleshooting
 
-* [quiche](https://github.com/cloudflare/quiche) ⭐ 12,731 | 🐛 372 | 🌐 Rust | 📅 2026-10-02: Savoury implementation of the QUIC transport protocol and HTTP/3
-* [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) ⭐ 7,090 | 🐛 27 | 🌐 Python | 📅 2024-08-17: Count the number of people around you  by monitoring wifi signals
+* [quiche](https://github.com/cloudflare/quiche) ⭐ 12,739 | 🐛 373 | 🌐 Rust | 📅 2026-10-02: Savoury implementation of the QUIC transport protocol and HTTP/3
+* [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) ⭐ 7,089 | 🐛 27 | 🌐 Python | 📅 2024-08-17: Count the number of people around you  by monitoring wifi signals
 * [echoip](https://github.com/mpolden/echoip) ⭐ 4,353 | 🐛 12 | 🌐 Go | 📅 2026-09-05: IP address lookup service. [ifconfig.co](https://ifconfig.co/)
-* [sparrow-wifi](https://github.com/ghostop14/sparrow-wifi) ⭐ 1,632 | 🐛 52 | 🌐 Python | 📅 2026-09-28: Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux.
-* [wavemon](https://github.com/uoaerg/wavemon) ⭐ 1,250 | 🐛 6 | 🌐 C | 📅 2026-06-29 is an ncurses-based monitoring application for wireless network devices
+* [sparrow-wifi](https://github.com/ghostop14/sparrow-wifi) ⭐ 1,633 | 🐛 52 | 🌐 Python | 📅 2026-09-28: Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux.
+* [wavemon](https://github.com/uoaerg/wavemon) ⭐ 1,251 | 🐛 6 | 🌐 C | 📅 2026-06-29 is an ncurses-based monitoring application for wireless network devices
 * [whois](https://github.com/RIPE-NCC/whois) ⭐ 409 | 🐛 17 | 🌐 Java | 📅 2026-10-02: RIPE Database whois code repository.
 * [trace-cmd](https://github.com/rostedt/trace-cmd) ⭐ 313 | 🐛 8 | 🌐 C | 📅 2026-05-29: utilities for Linux ftrace
 * [ripe-atlas-tools](https://github.com/RIPE-NCC/ripe-atlas-tools) ⭐ 215 | 🐛 10 | 🌐 Python | 📅 2026-06-04: Official command-line client for RIPE Atlas.
@@ -657,7 +657,7 @@ ansible_python_interpreter=/usr/bin/python3
 
 ### NetServices
 
-* [vector](https://github.com/timberio/vector) ⭐ 22,662 | 🐛 2,488 | 🌐 Rust | 📅 2026-10-02: [High-performance, vendor-neutral observability pipelines.](https://vector.dev/)
+* [vector](https://github.com/timberio/vector) ⭐ 22,664 | 🐛 2,488 | 🌐 Rust | 📅 2026-10-02: [High-performance, vendor-neutral observability pipelines.](https://vector.dev/)
 * [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,463 | 🐛 1 | 🌐 Go | 📅 2026-09-07: Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 * [speedtest-cli](https://github.com/sivel/speedtest-cli) ⚠️ Archived: Command line interface for testing internet bandwidth using speedtest.net
 * [lwan](https://github.com/lpereira/lwan) ⭐ 6,037 | 🐛 49 | 🌐 C | 📅 2026-09-27: Experimental, scalable, high performance HTTP server
@@ -673,7 +673,7 @@ ansible_python_interpreter=/usr/bin/python3
 
 #### Email
 
-* [Cypht](https://github.com/jasonmunro/cypht) ⭐ 1,748 | 🐛 145 | 🌐 PHP | 📅 2026-09-26: Lightweight Open Source webmail written in PHP and JavaScript
+* [Cypht](https://github.com/jasonmunro/cypht) ⭐ 1,747 | 🐛 145 | 🌐 PHP | 📅 2026-09-26: Lightweight Open Source webmail written in PHP and JavaScript
 * [jmap](https://github.com/jmapio/jmap) ⭐ 1,376 | 🐛 13 | 🌐 Makefile | 📅 2026-10-01: JSON Meta Application Protocol Specification (JMAP)
 * [maildog](https://github.com/edmundhung/maildog) ⭐ 400 | 🐛 0 | 🌐 TypeScript | 📅 2021-08-19: Hosting your own email forwarding service on AWS and manage it with Github Actions.
 
@@ -707,7 +707,7 @@ ansible_python_interpreter=/usr/bin/python3
 
 ### LoadBalancers
 
-* [memcached](https://github.com/memcached/memcached/wiki/Extstore) ⭐ 14,287 | 🐛 110 | 🌐 C | 📅 2026-09-11: Memcached is a high performance multithreaded event-based key/value cache store intended to be used in a distributed system. Nice discussion about: [Caching beyond RAM: Riding the cliff](https://memcached.org/blog/nvm-multidisk/)
+* [memcached](https://github.com/memcached/memcached/wiki/Extstore) ⭐ 14,288 | 🐛 110 | 🌐 C | 📅 2026-09-11: Memcached is a high performance multithreaded event-based key/value cache store intended to be used in a distributed system. Nice discussion about: [Caching beyond RAM: Riding the cliff](https://memcached.org/blog/nvm-multidisk/)
 * [skipper](https://github.com/zalando/skipper) ⭐ 3,332 | 🐛 297 | 🌐 Go | 📅 2026-10-02: An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
 * [glb-director](https://github.com/github/glb-director) ⭐ 2,456 | 🐛 33 | 🌐 C | 📅 2026-09-28: GitHub Load Balancer Director and supporting tooling.
 * [Introduction to HAProxy ACLs](https://www.haproxy.com/blog/introduction-to-haproxy-acls/): HAProxy Technologies
@@ -715,12 +715,12 @@ ansible_python_interpreter=/usr/bin/python3
 
 ### Browsers
 
-* [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) ⭐ 27,854 | 🐛 182 | 🌐 Python | 📅 2026-10-02: Modifications to Google Chromium for removing Google integration and enhancing privacy, control, and transparency
+* [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) ⭐ 27,862 | 🐛 184 | 🌐 Python | 📅 2026-10-02: Modifications to Google Chromium for removing Google integration and enhancing privacy, control, and transparency
   * [Chromium & Netflix (and other DRM video websites)](https://ubuntu-mate.community/t/tutorial-chromium-netflix-and-other-drm-video-websites/7185)
 * [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) ⚠️ Archived: Puppeteer recorder is a Chrome extension that records your browser interactions and generat
 * [OctoLinker](https://github.com/OctoLinker/OctoLinker) ⭐ 5,388 | 🐛 62 | 🌐 HTML | 📅 2023-10-02: Links together, what belongs together
-* [user.js](https://github.com/pyllyukko/user.js) ⭐ 2,896 | 🐛 26 | 🌐 JavaScript | 📅 2026-04-07: Firefox configuration hardening. Another: [user.js](https://github.com/arkenfox/user.js) ⭐ 12,868 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-09: Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening.
-* [DuckDuckGo Browser Extensions](https://github.com/duckduckgo/duckduckgo-privacy-extension) ⭐ 1,498 | 🐛 192 | 🌐 JavaScript | 📅 2026-10-02: DuckDuckGo Privacy Essentials browser extension for Firefox, Chrome, Safari.
+* [user.js](https://github.com/pyllyukko/user.js) ⭐ 2,897 | 🐛 26 | 🌐 JavaScript | 📅 2026-04-07: Firefox configuration hardening. Another: [user.js](https://github.com/arkenfox/user.js) ⭐ 12,872 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-09: Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening.
+* [DuckDuckGo Browser Extensions](https://github.com/duckduckgo/duckduckgo-privacy-extension) ⭐ 1,498 | 🐛 192 | 🌐 JavaScript | 📅 2026-10-03: DuckDuckGo Privacy Essentials browser extension for Firefox, Chrome, Safari.
 * [thor](https://github.com/cisco/thor) ⭐ 700 | 🐛 20 | 🌐 C | 📅 2018-08-08: Cisco's Thor Video Codec
 * [Firefox about:config privacy settings](https://gist.github.com/0XDE57/fbd302cef7693e62c769)
 * [Firefox Privacy](https://wiki.mozilla.org/Privacy/Privacy_Task_Force/firefox_about_config_privacy_tweeks)
@@ -733,8 +733,8 @@ ansible_python_interpreter=/usr/bin/python3
 
 ### PCAP
 
-* [NetworkX](https://networkx.org/) is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks. [repo](https://github.com/networkx/networkx) ⭐ 17,306 | 🐛 314 | 🌐 Python | 📅 2026-10-02
-* [PyPCAPKit](https://github.com/JarryShaw/PyPCAPKit) ⭐ 267 | 🐛 3 | 🌐 Python | 📅 2026-10-03: Python multi-engine PCAP analysis kit.
+* [NetworkX](https://networkx.org/) is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks. [repo](https://github.com/networkx/networkx) ⭐ 17,309 | 🐛 314 | 🌐 Python | 📅 2026-10-02
+* [PyPCAPKit](https://github.com/JarryShaw/PyPCAPKit) ⭐ 267 | 🐛 2 | 🌐 Python | 📅 2026-10-03: Python multi-engine PCAP analysis kit.
 * [scapy-tcp-extractor](https://github.com/deeso/scapy-tcp-extractor) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2023-06-16:  reassemble tcp streams using scapy
 * [Analyzing Packet Captures with Python](https://vnetman.github.io/pcap/python/pyshark/scapy/libpcap/2018/10/25/analyzing-packet-captures-with-python-part-1.html)
 
@@ -742,23 +742,23 @@ ansible_python_interpreter=/usr/bin/python3
 
 <img src="https://www.cyberciti.biz/files/Linux%20Bash%20Shell%20Poster.jpg"  width="100" height="140"/>
 
-* [bat](https://github.com/sharkdp/bat) ⭐ 60,645 | 🐛 535 | 🌐 Rust | 📅 2026-10-01: A cat(1) clone with wings.
+* [bat](https://github.com/sharkdp/bat) ⭐ 60,666 | 🐛 539 | 🌐 Rust | 📅 2026-10-01: A cat(1) clone with wings.
 * [eDEX-UI](https://github.com/GitSquared/edex-ui) ⚠️ Archived: A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 * [pure bash bible](https://github.com/dylanaraps/pure-bash-bible) ⚠️ Archived: 📖 A collection of pure bash alternatives to external processes.
-* [kitty](https://sw.kovidgoyal.net/kitty/) - the fast, featureful, GPU based terminal emulator. [github](https://github.com/kovidgoyal/kitty) ⭐ 35,151 | 🐛 12 | 🌐 Python | 📅 2026-10-03
-* [asdf-vm](https://asdf-vm.com/): [Manage multiple runtime versions with a single CLI tool](https://github.com/asdf-vm/asdf) ⭐ 25,595 | 🐛 147 | 🌐 Go | 📅 2026-10-01
-* [cheatsheets](https://github.com/rstacruz/cheatsheets) ⭐ 14,462 | 🐛 931 | 🌐 SCSS | 📅 2026-10-03, and [bash](https://devhints.io/bash.html)
+* [kitty](https://sw.kovidgoyal.net/kitty/) - the fast, featureful, GPU based terminal emulator. [github](https://github.com/kovidgoyal/kitty) ⭐ 35,157 | 🐛 12 | 🌐 Python | 📅 2026-10-04
+* [asdf-vm](https://asdf-vm.com/): [Manage multiple runtime versions with a single CLI tool](https://github.com/asdf-vm/asdf) ⭐ 25,594 | 🐛 147 | 🌐 Go | 📅 2026-10-01
+* [cheatsheets](https://github.com/rstacruz/cheatsheets) ⭐ 14,461 | 🐛 895 | 🌐 TypeScript | 📅 2026-10-04, and [bash](https://devhints.io/bash.html)
 * [xsv](https://github.com/BurntSushi/xsv) ⚠️ Archived: A fast CSV command line toolkit written in Rust.
-* [hexyl](https://github.com/sharkdp/hexyl) ⭐ 10,286 | 🐛 39 | 🌐 Rust | 📅 2026-04-30: A command-line hex viewer.
-* [up](https://github.com/akavel/up) ⭐ 8,851 | 🐛 30 | 🌐 Go | 📅 2024-09-05: Ultimate Plumber is a tool for writing Linux pipes with instant live preview
-* [Clipboard](https://github.com/Slackadays/Clipboard) ⭐ 5,922 | 🐛 27 | 🌐 C++ | 📅 2026-05-06: Cut, copy, and paste anything, anytime, anywhere.
+* [hexyl](https://github.com/sharkdp/hexyl) ⭐ 10,287 | 🐛 39 | 🌐 Rust | 📅 2026-04-30: A command-line hex viewer.
+* [up](https://github.com/akavel/up) ⭐ 8,852 | 🐛 30 | 🌐 Go | 📅 2024-09-05: Ultimate Plumber is a tool for writing Linux pipes with instant live preview
+* [Clipboard](https://github.com/Slackadays/Clipboard) ⭐ 5,923 | 🐛 27 | 🌐 C++ | 📅 2026-05-06: Cut, copy, and paste anything, anytime, anywhere.
 * [bash-oo-framework](https://github.com/niieani/bash-oo-framework) ⭐ 5,620 | 🐛 36 | 🌐 Shell | 📅 2023-12-15: Bash Infinity is a modern boilerplate / framework / standard library for bash
 * [t](https://github.com/sferik/t) ⭐ 5,587 | 🐛 59 | 🌐 Ruby | 📅 2026-09-28: A command-line power tool for Twitter.
 * [smenu](https://github.com/p-gen/smenu) ⭐ 2,493 | 🐛 4 | 🌐 C | 📅 2026-04-17: Terminal utility that allows you to use words coming from the standard input to create a nice selection wi
-* [Bass](https://github.com/edc/bass) ⭐ 2,463 | 🐛 15 | 🌐 Python | 📅 2023-12-16: Make Bash utilities usable in Fish shell.
+* [Bass](https://github.com/edc/bass) ⭐ 2,464 | 🐛 15 | 🌐 Python | 📅 2023-12-16: Make Bash utilities usable in Fish shell.
 * [sensible bash](https://github.com/mrzool/bash-sensible) ⭐ 2,114 | 🐛 10 | 🌐 Shell | 📅 2024-10-17
-* [GoAWK](https://github.com/benhoyt/goawk) ⭐ 2,060 | 🐛 4 | 🌐 Go | 📅 2026-09-15: an AWK interpreter written in Go
-* [PaperTTY](https://github.com/joukos/PaperTTY) ⭐ 1,047 | 🐛 50 | 🌐 Python | 📅 2024-04-11: PaperTTY - Python module to render a TTY on e-ink
+* [GoAWK](https://github.com/benhoyt/goawk) ⭐ 2,060 | 🐛 5 | 🌐 Go | 📅 2026-09-15: an AWK interpreter written in Go
+* [PaperTTY](https://github.com/joukos/PaperTTY) ⭐ 1,048 | 🐛 50 | 🌐 Python | 📅 2024-04-11: PaperTTY - Python module to render a TTY on e-ink
 * [funky](https://github.com/bbugyi200/funky) ⭐ 671 | 🐛 26 | 🌐 Python | 📅 2025-07-15:Funky takes shell functions to the next level by making them easier to define, more flexible, and more interactive.
 * [Pretty PuTTY](https://github.com/jacktrocinski/pretty-putty) ⭐ 313 | 🐛 1 | 🌐 PowerShell | 📅 2024-06-20: Make PuTTY pretty and apply modern PuTTY settings.
 * [tztail](https://github.com/thecasualcoder/tztail) ⭐ 228 | 🐛 6 | 🌐 Rust | 📅 2022-06-06: tztail (TimeZoneTAIL) allows you to view logs in the timezone you want.
@@ -773,8 +773,8 @@ ansible_python_interpreter=/usr/bin/python3
   * [rkirti/bashrc](https://github.com/rkirti/bashrc) ⭐ 150 | 🐛 3 | 🌐 Shell | 📅 2021-06-07
   * [Paul's .bashrc](https://github.com/paulkaefer/.bashrc) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-10-02
 * DotFiles:
-  * [chezmoi](https://github.com/twpayne/chezmoi) ⭐ 21,799 | 🐛 60 | 🌐 Go | 📅 2026-10-02: Manage your dotfiles securely across multiple machines.
-  * Amazing collection by [jessfraz](https://github.com/jessfraz/dotfiles/) ⭐ 3,564 | 🐛 0 | 🌐 Shell | 📅 2026-10-02
+  * [chezmoi](https://github.com/twpayne/chezmoi) ⭐ 21,812 | 🐛 60 | 🌐 Go | 📅 2026-10-02: Manage your dotfiles securely across multiple machines.
+  * Amazing collection by [jessfraz](https://github.com/jessfraz/dotfiles/) ⭐ 3,565 | 🐛 0 | 🌐 Shell | 📅 2026-10-02
   * Some [dotfile](https://github.com/maitesin/dot-files) ⭐ 4 | 🐛 0 | 🌐 Vim Script | 📅 2025-09-07 by maitesin
   * [pedrohenriquebr](https://github.com/pedrohenriquebr/dotfiles)
 * Powerline:
@@ -782,16 +782,16 @@ ansible_python_interpreter=/usr/bin/python3
   * [Powerline Gitstatus](https://github.com/jaspernbrouwer/powerline-gitstatus) ⭐ 387 | 🐛 13 | 🌐 Python | 📅 2024-09-08
   * [How to Jazz Up Your Bash Terminal](https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22)— A Step By Step Guide With Pictures
 * Z shell files:
-  * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) ⭐ 190,049 | 🐛 303 | 🌐 Shell | 📅 2026-09-29: A delightful community-driven (with 1,100+ contributors) framework for managing your zsh configuration.
-  * [powerlevel10k](https://github.com/romkatv/powerlevel10k) ⭐ 55,190 | 🐛 153 | 🌐 Shell | 📅 2026-09-14: Powerlevel10k is a theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
-  * [Pure](https://github.com/sindresorhus/pure) ⭐ 14,435 | 🐛 0 | 🌐 Shell | 📅 2026-09-19: Pretty, minimal and fast ZSH prompt
+  * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) ⭐ 190,109 | 🐛 302 | 🌐 Shell | 📅 2026-09-29: A delightful community-driven (with 1,100+ contributors) framework for managing your zsh configuration.
+  * [powerlevel10k](https://github.com/romkatv/powerlevel10k) ⭐ 55,193 | 🐛 153 | 🌐 Shell | 📅 2026-09-14: Powerlevel10k is a theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
+  * [Pure](https://github.com/sindresorhus/pure) ⭐ 14,436 | 🐛 0 | 🌐 Shell | 📅 2026-09-19: Pretty, minimal and fast ZSH prompt
   * [powerlevel9k](https://github.com/bhilburn/powerlevel9k) ⚠️ Archived: The most awesome Powerline theme for ZSH around!
   * [zplug](https://github.com/zplug/zplug) ⭐ 6,056 | 🐛 42 | 🌐 Shell | 📅 2026-03-04: 🌺 A next-generation plugin manager for zsh
   * [Zim](https://github.com/zimfw/zimfw/) ⭐ 4,702 | 🐛 22 | 🌐 Shell | 📅 2026-08-17 is a Zsh configuration framework with blazing speed and modular extensions.
   * [Z shell configuration](https://github.com/SixArm/sixarm_zsh_config) ⭐ 216 | 🐛 0 | 🌐 Shell | 📅 2025-04-14: SixArm.com → Z shell → zsh configuration
 * Fish:
-  * [fish-shell](https://github.com/fish-shell/fish-shell) ⭐ 34,252 | 🐛 556 | 🌐 Rust | 📅 2026-09-28: The user-friendly command line shell.
-  * [fisherman](https://github.com/fisherman/fisherman) ⭐ 9,432 | 🐛 16 | 🌐 Shell | 📅 2026-01-31: The fish-shell plugin manager.
+  * [fish-shell](https://github.com/fish-shell/fish-shell) ⭐ 34,256 | 🐛 556 | 🌐 Rust | 📅 2026-09-28: The user-friendly command line shell.
+  * [fisherman](https://github.com/fisherman/fisherman) ⭐ 9,431 | 🐛 16 | 🌐 Shell | 📅 2026-01-31: The fish-shell plugin manager.
 * [15 Tips On How to Use 'Curl' Command in Linux](https://www.tecmint.com/linux-curl-command-examples/)
 * [Lambda Shell](http://www.lambdashell.com/)
 * [Understanding Bash fork() Bomb \~ :(){ :|:& };:](https://www.cyberciti.biz/faq/understanding-bash-fork-bomb/)
@@ -826,9 +826,9 @@ ansible_python_interpreter=/usr/bin/python3
 ### Shell Utils
 
 * [cheat.sh](https://github.com/chubin/cheat.sh) ⭐ 41,798 | 🐛 149 | 🌐 Python | 📅 2026-09-22: the only cheat sheet you need.
-* [wttr.in](https://github.com/chubin/wttr.in) ⭐ 30,619 | 🐛 330 | 🌐 Go | 📅 2026-09-07: The right way to check the weather. wttr.in is a console-oriented weather forecast service that supports various information representation methods like terminal-oriented ANSI-sequences for console HTTP clients (curl, httpie, or wget), HTML for web browsers, or PNG for graphical viewers.
-* [navi](https://github.com/denisidoro/navi) ⭐ 17,705 | 🐛 113 | 🌐 Rust | 📅 2026-09-20: An interactive cheatsheet tool for the command-line
-* [Explainshell](https://explainshell.com/): write down a command-line to see the help text that matches each argument. [repo](https://github.com/idank/explainshell) ⭐ 14,272 | 🐛 56 | 🌐 Python | 📅 2026-08-26
+* [wttr.in](https://github.com/chubin/wttr.in) ⭐ 30,624 | 🐛 330 | 🌐 Go | 📅 2026-09-07: The right way to check the weather. wttr.in is a console-oriented weather forecast service that supports various information representation methods like terminal-oriented ANSI-sequences for console HTTP clients (curl, httpie, or wget), HTML for web browsers, or PNG for graphical viewers.
+* [navi](https://github.com/denisidoro/navi) ⭐ 17,711 | 🐛 113 | 🌐 Rust | 📅 2026-09-20: An interactive cheatsheet tool for the command-line
+* [Explainshell](https://explainshell.com/): write down a command-line to see the help text that matches each argument. [repo](https://github.com/idank/explainshell) ⭐ 14,274 | 🐛 56 | 🌐 Python | 📅 2026-08-26
 * [forgit](https://github.com/wfxr/forgit) ⭐ 5,086 | 🐛 7 | 🌐 Shell | 📅 2026-10-01 is a utility tool for git taking advantage of fuzzy finder fzf. [Interactive Git Commands With Previews Powered By fzf Fuzzy Finder](https://www.linuxuprising.com/2019/11/forgit-interactive-git-commands-with.html)
 * [The only Linux command you need to know](https://opensource.com/article/22/6/linux-cheat-command): cheat. [Simple cheatsheet viewer](https://gitlab.com/slackermedia/cheat) [cheatsheets](https://github.com/cheat/cheatsheets) ⭐ 2,041 | 🐛 34 | 🌐 Shell | 📅 2024-08-06
 * [nat](https://github.com/willdoescode/nat) ⭐ 1,264 | 🐛 0 | 🌐 Rust | 📅 2021-05-28: the 'ls' replacement you never knew you needed.
@@ -857,16 +857,16 @@ ansible_python_interpreter=/usr/bin/python3
 
 ### Editors
 
-* [vscodium](https://github.com/VSCodium/vscodium) ⭐ 33,491 | 🐛 156 | 🌐 Shell | 📅 2026-10-03: binary releases of VS Code without MS branding/telemetry/licensing
+* [vscodium](https://github.com/VSCodium/vscodium) ⭐ 33,502 | 🐛 157 | 🌐 Shell | 📅 2026-10-03: binary releases of VS Code without MS branding/telemetry/licensing
 * [SubEthaEdit](https://github.com/kubernetes-sigs/kind) ⭐ 15,528 | 🐛 246 | 🌐 Go | 📅 2026-09-30: Code, Write, Edit. Together. [github](https://github.com/subethaedit/SubEthaEdit) ⭐ 1,432 | 🐛 93 | 🌐 Objective-C | 📅 2025-11-09
-* [vscode-cpptools](https://github.com/Microsoft/vscode-cpptools) ⭐ 6,165 | 🐛 1,413 | 🌐 TypeScript | 📅 2026-10-02: Official repository for filing issues against and getting support for the Microsoft C/C++ extension for VS Code
+* [vscode-cpptools](https://github.com/Microsoft/vscode-cpptools) ⭐ 6,167 | 🐛 1,412 | 🌐 TypeScript | 📅 2026-10-03: Official repository for filing issues against and getting support for the Microsoft C/C++ extension for VS Code
 * [A succinct cheat sheet for newbie linux coders and system administrators, documenting some of the more obscure and useful gems of linux lore. Intended to be viewed in emacs org-mode, or VimOrganizer, though any text editor will suffice.](https://github.com/kevinthew/linuxgems) ⭐ 337 | 🐛 2 | 🌐 Shell | 📅 2022-01-05
 * [Open source collaborative text editors](https://juretriglav.si/open-source-collaborative-text-editors/)
 
 #### Vim/vi
 
-* [vim-plug](https://github.com/junegunn/vim-plug) ⭐ 35,775 | 🐛 86 | 🌐 Vim Script | 📅 2026-05-22: hibiscus Minimalist Vim Plugin Manager
-* [vimium](https://github.com/philc/vimium) ⭐ 27,032 | 🐛 893 | 🌐 JavaScript | 📅 2026-07-25:  Vimium is a Chrome extension that provides keyboard-based navigation and control of the web in the spirit of the Vim editor.
+* [vim-plug](https://github.com/junegunn/vim-plug) ⭐ 35,774 | 🐛 86 | 🌐 Vim Script | 📅 2026-05-22: hibiscus Minimalist Vim Plugin Manager
+* [vimium](https://github.com/philc/vimium) ⭐ 27,038 | 🐛 893 | 🌐 JavaScript | 📅 2026-07-25:  Vimium is a Chrome extension that provides keyboard-based navigation and control of the web in the spirit of the Vim editor.
 * [gruvbox](https://github.com/morhetz/gruvbox) ⭐ 15,775 | 🐛 159 | 🌐 Vim Script | 📅 2026-09-18: Retro groove color scheme for Vim
 * [vimari](https://github.com/guyht/vimari) ⭐ 2,734 | 🐛 120 | 🌐 JavaScript | 📅 2021-07-25: Safari port of vimium
 * [vim-prettier](https://github.com/prettier/vim-prettier) ⭐ 1,833 | 🐛 27 | 🌐 Vim Script | 📅 2026-09-18: A Vim plugin for Prettier
@@ -877,9 +877,9 @@ ansible_python_interpreter=/usr/bin/python3
 
 ### Monospaced Fonts
 
-* [FiraCode](https://github.com/tonsky/FiraCode) ⭐ 82,080 | 🐛 428 | 🌐 Clojure | 📅 2026-07-28: monospaced font with programming ligatures
-* [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) ⭐ 64,797 | 🐛 27 | 🌐 CSS | 📅 2026-09-30: Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-* [Cascadia Code](https://github.com/microsoft/cascadia-code) ⭐ 27,907 | 🐛 163 | 🌐 Python | 📅 2025-03-06: This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
+* [FiraCode](https://github.com/tonsky/FiraCode) ⭐ 82,086 | 🐛 428 | 🌐 Clojure | 📅 2026-07-28: monospaced font with programming ligatures
+* [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) ⭐ 64,809 | 🐛 27 | 🌐 CSS | 📅 2026-09-30: Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+* [Cascadia Code](https://github.com/microsoft/cascadia-code) ⭐ 27,909 | 🐛 163 | 🌐 Python | 📅 2025-03-06: This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 * [Hasklig](https://github.com/i-tu/Hasklig) ⭐ 5,704 | 🐛 46 | 🌐 Python | 📅 2022-02-19: a code font with monospaced ligatures
 * [Fixedsys Excelsior](https://github.com/kika/fixedsys) ⭐ 1,318 | 🐛 6 | 🌐 Rust | 📅 2026-04-23: font with programming ligatures
 * [DejaVu Sans Code](https://github.com/SSNikolaevich/DejaVuSansCode) ⭐ 482 | 🐛 10 | 🌐 Perl | 📅 2019-05-06: monospaced font with programming ligatures
@@ -917,7 +917,7 @@ ansible_python_interpreter=/usr/bin/python3
 
 ## Filesystems
 
-* [exFAT](https://github.com/relan/exfat) ⭐ 885 | 🐛 64 | 🌐 C | 📅 2025-12-21: Free exFAT file system implementation
+* [exFAT](https://github.com/relan/exfat) ⭐ 886 | 🐛 64 | 🌐 C | 📅 2025-12-21: Free exFAT file system implementation
 * [Stratis](https://stratis-storage.github.io/) is a local storage-management solution for Linux that can assist with the initial configuration and ongoing management of storage. [stratisd](https://github.com/stratis-storage/stratisd) ⭐ 879 | 🐛 125 | 🌐 Rust | 📅 2026-10-01
 * [BetrFS](http://www.betrfs.org): The Bε-tree File System, or BetrFS, is an in-kernel file system that uses Bε trees to organize on-disk storage. Bε trees are a write-optimized dictionary, and offer the same asymptotic behavior for sequential I/O and point queries as a B-tree. [github](https://github.com/oscarlab/betrfs) ⭐ 300 | 🐛 6 | 🌐 C++ | 📅 2024-06-09.
 * [folderstats](https://github.com/njanakiev/folderstats) ⭐ 70 | 🐛 3 | 🌐 Python | 📅 2022-11-22: Python module that creates statistics from a folder structure
@@ -928,9 +928,9 @@ ansible_python_interpreter=/usr/bin/python3
 
 ## \*nix/BSD
 
-* [lvgl](https://github.com/lvgl/lvgl) ⭐ 24,784 | 🐛 142 | 🌐 C | 📅 2026-10-02: Powerful and easy-to-use embedded GUI with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).
-* [unix-history-repo](https://github.com/dspinellis/unix-history-repo) ⭐ 7,270 | 🐛 0 | 🌐 Assembly | 📅 2026-01-05: Continuous Unix commit history from 1970 until today.
-* [s-tui](https://amanusk.github.io/s-tui/): s-tui is a terminal UI for monitoring your computer. [github](https://github.com/amanusk/s-tui) ⭐ 5,101 | 🐛 39 | 🌐 Python | 📅 2026-09-15, [news](https://www.cyberciti.biz/python-tutorials/monitor-linux-cpu-temperature-frequency-power-in-a-graphical-way/)
+* [lvgl](https://github.com/lvgl/lvgl) ⭐ 24,792 | 🐛 142 | 🌐 C | 📅 2026-10-02: Powerful and easy-to-use embedded GUI with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).
+* [unix-history-repo](https://github.com/dspinellis/unix-history-repo) ⭐ 7,269 | 🐛 0 | 🌐 Assembly | 📅 2026-01-05: Continuous Unix commit history from 1970 until today.
+* [s-tui](https://amanusk.github.io/s-tui/): s-tui is a terminal UI for monitoring your computer. [github](https://github.com/amanusk/s-tui) ⭐ 5,102 | 🐛 39 | 🌐 Python | 📅 2026-09-15, [news](https://www.cyberciti.biz/python-tutorials/monitor-linux-cpu-temperature-frequency-power-in-a-graphical-way/)
 * [illumos](https://github.com/illumos/ipd) ⭐ 54 | 🐛 6 | 🌐 C | 📅 2026-09-30: illumos Project Discussion
 * (pt-br) [hoc](https://github.com/ramalho/hoc) ⭐ 16 | 🐛 0 | 🌐 C | 📅 2019-01-11: A mini-linguagem do livro 'The Unix Programming Environment", com explicações em PT-BR
 * [UNIX Syscalls](https://john-millikin.com/unix-syscalls)
@@ -965,11 +965,11 @@ ansible_python_interpreter=/usr/bin/python3
 
 ## Virtualization
 
-* [dive](https://github.com/wagoodman/dive) ⭐ 54,628 | 🐛 216 | 🌐 Go | 📅 2025-12-15: A tool for exploring each layer in a docker image
-* [Firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 37,122 | 🐛 94 | 🌐 Rust | 📅 2026-10-02: Secure and fast microVMs for serverless computing.
-* [Windows 95](https://github.com/felixrieseberg/windows95) ⭐ 24,250 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-11 in Electron. Runs on macOS, Linux, and Windows.
-* [Quickemu](https://github.com/wimpysworld/quickemu) ⭐ 16,383 | 🐛 74 | 🌐 Shell | 📅 2026-09-28: Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-* [Introducing Crossplane](https://blog.upbound.io/introducing-crossplane-open-source-multicloud-control-plane/): Open Source Multicloud Control Plane. [github](https://github.com/crossplaneio/crossplane) ⭐ 12,132 | 🐛 184 | 🌐 Go | 📅 2026-10-03
+* [dive](https://github.com/wagoodman/dive) ⭐ 54,629 | 🐛 216 | 🌐 Go | 📅 2025-12-15: A tool for exploring each layer in a docker image
+* [Firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 37,135 | 🐛 94 | 🌐 Rust | 📅 2026-10-02: Secure and fast microVMs for serverless computing.
+* [Windows 95](https://github.com/felixrieseberg/windows95) ⭐ 24,249 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-11 in Electron. Runs on macOS, Linux, and Windows.
+* [Quickemu](https://github.com/wimpysworld/quickemu) ⭐ 16,386 | 🐛 74 | 🌐 Shell | 📅 2026-09-28: Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+* [Introducing Crossplane](https://blog.upbound.io/introducing-crossplane-open-source-multicloud-control-plane/): Open Source Multicloud Control Plane. [github](https://github.com/crossplaneio/crossplane) ⭐ 12,134 | 🐛 185 | 🌐 Go | 📅 2026-10-03
 * [anbox](https://github.com/anbox/anbox) ⚠️ Archived: Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 * [Running FreeBSD on OSX using](https://dan.langille.org/2018/10/02/running-freebsd-on-osx-using-xhyve-a-port-of-bhyve/) [xhyve](https://github.com/machyve/xhyve) ⭐ 6,431 | 🐛 89 | 🌐 C | 📅 2022-01-29, a port of [bhyve](http://www.bhyve.org/)
 * [IncludeOS](https://github.com/hioa-cs/IncludeOS) ⭐ 5,250 | 🐛 108 | 🌐 C++ | 📅 2026-05-15: is an includable, minimal unikernel operating system for C++ services running in the cloud.
@@ -1005,8 +1005,8 @@ ansible_python_interpreter=/usr/bin/python3
 
 ### KVM
 
-* [OSX-KVM: Run El Capitan, macOS Sierra, High Sierra and Mojave on QEMU/KVM. No support is provided at the moment.](https://github.com/kholia/OSX-KVM) ⭐ 23,683 | 🐛 23 | 🌐 Shell | 📅 2026-01-26
-* [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM/) ⭐ 13,941 | 🐛 362 | 🌐 Shell | 📅 2024-04-04: Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
+* [OSX-KVM: Run El Capitan, macOS Sierra, High Sierra and Mojave on QEMU/KVM. No support is provided at the moment.](https://github.com/kholia/OSX-KVM) ⭐ 23,681 | 🐛 24 | 🌐 Shell | 📅 2026-01-26
+* [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM/) ⭐ 13,940 | 🐛 362 | 🌐 Shell | 📅 2024-04-04: Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 * [How to migrate your Virtual Box machines to the KVM-VirtManager](https://www.utappia.org/2016/04/how-to-migrate-your-virtual-box.html)
 * [virt-v2v to convert an ova file to qcow2 fails with error](https://access.redhat.com/solutions/2110391)
 * [Windows 10 in KVM: change boot disk to Virtio](https://superuser.com/questions/1057959/windows-10-in-kvm-change-boot-disk-to-virtio)
@@ -1027,9 +1027,9 @@ ansible_python_interpreter=/usr/bin/python3
 
 ### Containers
 
-* [etcd](https://github.com/etcd-io/etcd) ⭐ 52,323 | 🐛 366 | 🌐 Go | 📅 2026-10-01: Distributed reliable key-value store for the most critical data of a distributed system
-* [podman](https://github.com/containers/podman) ⭐ 32,988 | 🐛 1,017 | 🌐 Go | 📅 2026-10-02: A tool for managing OCI containers and pods
-* [cilium](https://github.com/cilium/cilium/) ⭐ 25,592 | 🐛 1,108 | 🌐 Go | 📅 2026-10-02: API Aware Networking and Security using BPF and XDP
+* [etcd](https://github.com/etcd-io/etcd) ⭐ 52,322 | 🐛 373 | 🌐 Go | 📅 2026-10-01: Distributed reliable key-value store for the most critical data of a distributed system
+* [podman](https://github.com/containers/podman) ⭐ 32,990 | 🐛 1,021 | 🌐 Go | 📅 2026-10-02: A tool for managing OCI containers and pods
+* [cilium](https://github.com/cilium/cilium/) ⭐ 25,598 | 🐛 1,115 | 🌐 Go | 📅 2026-10-04: API Aware Networking and Security using BPF and XDP
 * [A Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/)
 * [Test containers with Python and Conu](https://fedoramagazine.org/test-containers-python-conu/)
 * Vagrant:
@@ -1039,9 +1039,9 @@ ansible_python_interpreter=/usr/bin/python3
   * [vagrant](https://github.com/perkolatoriji/vagrant) ⭐ 1 | 🐛 0 | 🌐 CSS | 📅 2022-08-24 DevOps#1 project: vagrant virtualbox ansible nginx apache2 prometheus grafana debian ubuntu linux
   * [How to Use Vagrant with Libvirt on Linux](https://computingforgeeks.com/using-vagrant-with-libvirt-on-linux/)
 * Docker:
-  * [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,951 | 🐛 47 | 📅 2026-10-02: A curated list of Docker resources and projects.
+  * [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,959 | 🐛 46 | 📅 2026-10-02: A curated list of Docker resources and projects.
   * [tsuru](https://github.com/tsuru/tsuru) ⭐ 5,312 | 🐛 21 | 🌐 Go | 📅 2026-09-29: Open source, extensible and Docker-based Platform as a Service (PaaS).
-  * [img](https://github.com/genuinetools/img) ⭐ 3,990 | 🐛 110 | 🌐 Go | 📅 2024-05-19: Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
+  * [img](https://github.com/genuinetools/img) ⭐ 3,989 | 🐛 110 | 🌐 Go | 📅 2024-05-19: Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
   * [rubber-docker](https://github.com/Fewbytes/rubber-docker) ⭐ 3,247 | 🐛 20 | 🌐 Python | 📅 2024-07-28: A workshop on Linux containers: Rebuild Docker from Scratch
   * [slim](https://github.com/ottomatica/slim) ⭐ 2,127 | 🐛 11 | 🌐 JavaScript | 📅 2023-03-06: Build and run tiny vms from Dockerfiles. Small and sleek.
   * [Docker Immutable Workstation](https://github.com/mikadosoftware/workstation) ⭐ 489 | 🐛 15 | 🌐 Python | 📅 2024-12-25: Docker based portable Workstation
@@ -1074,7 +1074,7 @@ ansible_python_interpreter=/usr/bin/python3
   * [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) ⭐ 4,290 | 🐛 198 | 🌐 Go | 📅 2026-09-30: Policy Controller for Kubernetes
   * [kubernetes-workshop](https://github.com/eon01/kubernetes-workshop) ⭐ 3,228 | 🐛 9 | 🌐 Python | 📅 2023-02-28: ⚙️ A [Gentle introduction to Kubernetes](https://medium.com/faun/a-gentle-introduction-to-kubernetes-4961e443ba26) with more than just the basics. 🌟 Give it a star if you like it.
   * [Goldpinger](https://github.com/bloomberg/goldpinger) ⭐ 2,741 | 🐛 37 | 🌐 JavaScript | 📅 2026-09-14: Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
-  * [BotKube](https://github.com/infracloudio/botkube) ⭐ 2,313 | 🐛 65 | 🌐 Go | 📅 2024-12-11
+  * [BotKube](https://github.com/infracloudio/botkube) ⭐ 2,312 | 🐛 65 | 🌐 Go | 📅 2024-12-11
   * [k8s-image-swapper](https://github.com/estahn/k8s-image-swapper/) ⭐ 632 | 🐛 51 | 🌐 Go | 📅 2026-10-01: Mirror images into your own registry and swap image references automatically.
   * [You might not need Kubernetes](https://blog.jessfraz.com/post/you-might-not-need-k8s/)
   * [9 Kubernetes Security Best Practices Everyone Must Follow](https://www.cncf.io/blog/2019/01/14/9-kubernetes-security-best-practices-everyone-must-follow/)
@@ -1089,9 +1089,9 @@ ansible_python_interpreter=/usr/bin/python3
 
 ## Android
 
-* [scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 150,904 | 🐛 2,913 | 🌐 C | 📅 2026-10-02: Display and control your Android device
-* [NewPipe](https://newpipe.schabi.org/): The lightweight YouTube experience for Android - [code](https://github.com/TeamNewPipe/NewPipe) ⭐ 39,846 | 🐛 1,473 | 🌐 Java | 📅 2026-09-30
-* [Project description](https://github.com/igorwojda/android-showcase) ⭐ 6,805 | 🐛 4 | 🌐 Kotlin | 📅 2026-09-30: gemAndroid application following best practices: Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...
+* [scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 150,964 | 🐛 2,915 | 🌐 C | 📅 2026-10-03: Display and control your Android device
+* [NewPipe](https://newpipe.schabi.org/): The lightweight YouTube experience for Android - [code](https://github.com/TeamNewPipe/NewPipe) ⭐ 39,857 | 🐛 1,473 | 🌐 Java | 📅 2026-09-30
+* [Project description](https://github.com/igorwojda/android-showcase) ⭐ 6,805 | 🐛 5 | 🌐 Kotlin | 📅 2026-09-30: gemAndroid application following best practices: Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...
 * [Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) ⭐ 1,551 | 🐛 33 | 🌐 Kotlin | 📅 2024-01-25: A Pokedex app using ViewModel, LiveData, Room and Navigation
 * [Android and Kotlin conference videos](https://github.com/igorwojda/android-kotlin-conference-videos) ⭐ 422 | 🐛 0 | 📅 2024-08-19
 * [My Homeassistant configuration](https://github.com/eifinger/homeassistant-config) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2023-01-28
@@ -1102,29 +1102,29 @@ ansible_python_interpreter=/usr/bin/python3
 
 ## Mac/iOS
 
-* [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 50,623 | 🐛 357 | 📅 2026-09-10:  Awesome list of open source applications for macOS.
+* [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 50,627 | 🐛 358 | 📅 2026-09-10:  Awesome list of open source applications for macOS.
 * [Charts](https://github.com/danielgindi/Charts) ⭐ 27,997 | 🐛 977 | 🌐 Swift | 📅 2026-03-07
-* [Kingfisher](https://github.com/onevcat/Kingfisher) ⭐ 24,404 | 🐛 169 | 🌐 Swift | 📅 2026-09-26: A lightweight, pure-Swift library for downloading and caching images from the web.
-* [iSh](https://github.com/tbodt/ish) ⭐ 20,526 | 🐛 642 | 🌐 C | 📅 2026-09-20: Linux shell for iOS
-* [iTerm2](https://github.com/gnachman/iTerm2) ⭐ 18,111 | 🐛 80 | 🌐 Objective-C | 📅 2026-10-01 is a terminal emulator for Mac OS X that does amazing things.
-* [BitBar](https://github.com/matryer/bitbar) ⭐ 18,069 | 🐛 188 | 🌐 Go | 📅 2024-09-10: Put the output from any script or program in your Mac OS X Menu Bar.
-* [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) ⭐ 15,499 | 🐛 12 | 🌐 C | 📅 2026-09-30: OpenCore bootloader with development SDK.
-* [osxfuse](https://github.com/osxfuse/osxfuse) ⭐ 9,823 | 🐛 56 | 📅 2026-09-07: FUSE extends macOS by adding support for user space file systems
-* [Sloth](https://github.com/sveinbjornt/Sloth) ⭐ 8,965 | 🐛 2 | 🌐 Objective-C | 📅 2026-08-30: Mac app that shows all open files and sockets in use by all running processes. Nice GUI for lsof.
-* [LinearMouse](https://linearmouse.app/pt-BR/):  The mouse and trackpad utility for Mac. [repo](https://github.com/linearmouse/linearmouse) ⭐ 6,928 | 🐛 137 | 🌐 Swift | 📅 2026-10-03
-* [MacPass](https://github.com/MacPass/MacPass) ⭐ 6,875 | 🐛 292 | 🌐 Objective-C | 📅 2026-09-23: A native OS X KeePass client
-* [m1n1](https://github.com/asahilinux/m1n1) ⭐ 4,248 | 🐛 25 | 🌐 Python | 📅 2026-10-02: A bootloader and experimentation playground for Apple Silicon
-* [SourceKit-LSP](https://github.com/apple/sourcekit-lsp) ⭐ 3,911 | 🐛 160 | 🌐 Swift | 📅 2026-10-03: Language Server Protocol implementation for Swift and C-based languages.
+* [Kingfisher](https://github.com/onevcat/Kingfisher) ⭐ 24,404 | 🐛 167 | 🌐 Swift | 📅 2026-10-03: A lightweight, pure-Swift library for downloading and caching images from the web.
+* [iSh](https://github.com/tbodt/ish) ⭐ 20,528 | 🐛 642 | 🌐 C | 📅 2026-09-20: Linux shell for iOS
+* [iTerm2](https://github.com/gnachman/iTerm2) ⭐ 18,117 | 🐛 80 | 🌐 Swift | 📅 2026-10-04 is a terminal emulator for Mac OS X that does amazing things.
+* [BitBar](https://github.com/matryer/bitbar) ⭐ 18,068 | 🐛 188 | 🌐 Go | 📅 2024-09-10: Put the output from any script or program in your Mac OS X Menu Bar.
+* [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) ⭐ 15,501 | 🐛 12 | 🌐 C | 📅 2026-09-30: OpenCore bootloader with development SDK.
+* [osxfuse](https://github.com/osxfuse/osxfuse) ⭐ 9,824 | 🐛 58 | 📅 2026-09-07: FUSE extends macOS by adding support for user space file systems
+* [Sloth](https://github.com/sveinbjornt/Sloth) ⭐ 8,966 | 🐛 2 | 🌐 Objective-C | 📅 2026-08-30: Mac app that shows all open files and sockets in use by all running processes. Nice GUI for lsof.
+* [LinearMouse](https://linearmouse.app/pt-BR/):  The mouse and trackpad utility for Mac. [repo](https://github.com/linearmouse/linearmouse) ⭐ 6,934 | 🐛 135 | 🌐 Swift | 📅 2026-10-03
+* [MacPass](https://github.com/MacPass/MacPass) ⭐ 6,877 | 🐛 292 | 🌐 Objective-C | 📅 2026-10-03: A native OS X KeePass client
+* [m1n1](https://github.com/asahilinux/m1n1) ⭐ 4,249 | 🐛 25 | 🌐 Python | 📅 2026-10-02: A bootloader and experimentation playground for Apple Silicon
+* [SourceKit-LSP](https://github.com/apple/sourcekit-lsp) ⭐ 3,911 | 🐛 161 | 🌐 Swift | 📅 2026-10-03: Language Server Protocol implementation for Swift and C-based languages.
 * [Maestral](https://github.com/SamSchott/maestral) ⚠️ Archived: Open-source Dropbox client for macOS and Linux.
 * [insert\_dylib](https://github.com/Tyilo/insert_dylib) ⭐ 2,099 | 🐛 2 | 🌐 C | 📅 2025-03-29: Command line utility for inserting a dylib load command into a Mach-O binary
 * [Crescendo](https://github.com/SuprHackerSteve/Crescendo) ⭐ 1,076 | 🐛 2 | 🌐 Swift | 📅 2021-07-22: is a swift based, real time event viewer for macOS. It utilizes Apple's Endpoint Security Framework.
 * [linuxify](https://github.com/fabiomaia/linuxify) ⭐ 959 | 🐛 7 | 🌐 Shell | 📅 2026-03-25: 🍏🐧 Transparently transform the macOS CLI into a fresh GNU/Linux CLI experience.
 * [symboliclinker](https://github.com/nickzman/symboliclinker) ⭐ 916 | 🐛 10 | 🌐 Objective-C | 📅 2020-11-12: A contextual menu plugin & service for Mac OS X that allows users to make symbolic links in the Finder
 * [CoreXLSX](https://github.com/MaxDesiatov/CoreXLSX) ⭐ 907 | 🐛 38 | 🌐 Swift | 📅 2024-03-25: Excel spreadsheet (XLSX) format support in pure Swift, by [max desiatov](https://desiatov.com/swift-codable-xlsx/#title)
-* [mac\_os](https://github.com/bkuhlmann/mac_os#requirements) ⭐ 517 | 🐛 0 | 🌐 Shell | 📅 2026-09-17: Shell scripts for automated macOS machine setup.
+* [mac\_os](https://github.com/bkuhlmann/mac_os#requirements) ⭐ 518 | 🐛 0 | 🌐 Shell | 📅 2026-09-17: Shell scripts for automated macOS machine setup.
 * [create\_macos\_vm\_install\_dmg](https://github.com/rtrouton/create_macos_vm_install_dmg) ⭐ 487 | 🐛 1 | 🌐 Shell | 📅 2025-02-07: This script prepares macOS installer disk images for use with virtualization software like VMware Fusion or Parallels.
-* [macOS-Fortress](https://github.com/essandess/macOS-Fortress) ⭐ 450 | 🐛 1 | 🌐 Shell | 📅 2021-11-24: Firewall and Privatizing Proxy for Trackers, Attackers, Malware, Adware, and Spammers with Anti-Virus On-Demand and On-Access Scanning (PF, squid, privoxy, hphosts, dshield, emergingthreats, hostsfile, PAC file, clamav).
-* [Shell scripts for customized macOS machine setup and configuration.](https://github.com/bkuhlmann/mac_os-config) ⭐ 428 | 🐛 0 | 🌐 Shell | 📅 2026-09-16
+* [macOS-Fortress](https://github.com/essandess/macOS-Fortress) ⭐ 449 | 🐛 1 | 🌐 Shell | 📅 2021-11-24: Firewall and Privatizing Proxy for Trackers, Attackers, Malware, Adware, and Spammers with Anti-Virus On-Demand and On-Access Scanning (PF, squid, privoxy, hphosts, dshield, emergingthreats, hostsfile, PAC file, clamav).
+* [Shell scripts for customized macOS machine setup and configuration.](https://github.com/bkuhlmann/mac_os-config) ⭐ 428 | 🐛 0 | 🌐 Shell | 📅 2026-10-03
 * [kemon](https://github.com/didi/kemon) ⚠️ Archived: An Open-Source Pre and Post Callback-Based Framework for macOS Kernel Monitoring.
 * [TrueTree](https://github.com/themittenmac/TrueTree) ⭐ 287 | 🐛 2 | 🌐 Swift | 📅 2024-08-23: A command line tool for pstree-like output on macOS with additional pid capturing capabilities.
 * [pdfinverter](https://github.com/rootVIII/pdfinverter) ⚠️ Archived: darken (or lighten) a PDF on macOS
@@ -1149,23 +1149,23 @@ ansible_python_interpreter=/usr/bin/python3
 
 ## Windows
 
-* [Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts) ⭐ 193,065 | 🐛 3 | 🌐 Batchfile | 📅 2026-09-10: Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting. [site](https://massgrave.dev/#download--how-to-use-it)
-* [PowerToys](https://github.com/Microsoft/PowerToys) ⭐ 139,171 | 🐛 7,687 | 🌐 C | 📅 2026-10-03: Windows system utilities to maximize productivity
-* [cmder](https://github.com/cmderdev/cmder) ⭐ 27,008 | 🐛 73 | 🌐 PowerShell | 📅 2026-09-29:  is a software package created out of pure frustration over absence of usable console emulator on Windows.
-* [winget](https://github.com/microsoft/winget-cli) ⭐ 26,475 | 🐛 1,301 | 🌐 C++ | 📅 2026-10-02: Windows Package Manager CLI (aka winget).
+* [Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts) ⭐ 193,207 | 🐛 2 | 🌐 Batchfile | 📅 2026-09-10: Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting. [site](https://massgrave.dev/#download--how-to-use-it)
+* [PowerToys](https://github.com/Microsoft/PowerToys) ⭐ 139,200 | 🐛 7,688 | 🌐 C | 📅 2026-10-03: Windows system utilities to maximize productivity
+* [cmder](https://github.com/cmderdev/cmder) ⭐ 27,011 | 🐛 73 | 🌐 PowerShell | 📅 2026-10-03:  is a software package created out of pure frustration over absence of usable console emulator on Windows.
+* [winget](https://github.com/microsoft/winget-cli) ⭐ 26,478 | 🐛 1,301 | 🌐 C++ | 📅 2026-10-02: Windows Package Manager CLI (aka winget).
 * [coreclr](https://github.com/dotnet/coreclr) ⚠️ Archived: This repo contains the .NET Core runtime, called CoreCLR, and the base library, called System.Private.Corelib (or mscorlib).
-* [Uno Platform](https://github.com/unoplatform/uno) ⭐ 10,064 | 🐛 1,819 | 🌐 C# | 📅 2026-10-03: Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
+* [Uno Platform](https://github.com/unoplatform/uno) ⭐ 10,062 | 🐛 1,803 | 🌐 C# | 📅 2026-10-04: Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
 * [Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) ⭐ 7,868 | 🐛 129 | 🌐 C | 📅 2026-09-25: This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
-* [Windows classic samples](https://github.com/microsoft/Windows-classic-samples) ⭐ 5,684 | 🐛 159 | 📅 2026-09-03: This repo contains samples that demonstrate the API used in Windows classic desktop applications.
+* [Windows classic samples](https://github.com/microsoft/Windows-classic-samples) ⭐ 5,687 | 🐛 159 | 📅 2026-09-03: This repo contains samples that demonstrate the API used in Windows classic desktop applications.
 * [Microsoft 3D Movie Maker](https://github.com/microsoft/Microsoft-3D-Movie-Maker) ⚠️ Archived: This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software.
-* [Windows X86-64 System Call Table](https://j00ru.vexillium.org/syscalls/nt/64/) (XP/2003/Vista/2008/7/2012/8/10). [windows-syscalls](https://github.com/j00ru/windows-syscalls) ⭐ 2,649 | 🐛 3 | 🌐 HTML | 📅 2025-12-30
+* [Windows X86-64 System Call Table](https://j00ru.vexillium.org/syscalls/nt/64/) (XP/2003/Vista/2008/7/2012/8/10). [windows-syscalls](https://github.com/j00ru/windows-syscalls) ⭐ 2,650 | 🐛 3 | 🌐 HTML | 📅 2025-12-30
 * [BadBlood](https://github.com/davidprowe/BadBlood) ⭐ 2,269 | 🐛 8 | 🌐 PowerShell | 📅 2023-06-07 by @davidprowe, Secframe.com, fills a Microsoft Active Directory Domain with a structure and thousands of objects. The output of the tool is a domain similar to a domain in the real world. After BadBlood is ran on a domain, security analysts and engineers can practice using tools to gain an understanding and prescribe to securing Active…
-* [windows-dev-box-setup-scripts](https://github.com/Microsoft/windows-dev-box-setup-scripts) ⭐ 1,874 | 🐛 31 | 🌐 PowerShell | 📅 2024-02-02
+* [windows-dev-box-setup-scripts](https://github.com/Microsoft/windows-dev-box-setup-scripts) ⭐ 1,875 | 🐛 31 | 🌐 PowerShell | 📅 2024-02-02
 * [SysmonTools](https://github.com/nshalabi/SysmonTools) ⭐ 1,667 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-04: Utilities for Sysmon
 * [WSL-Hello-sudo](https://github.com/nullpo-head/WSL-Hello-sudo) ⭐ 1,320 | 🐛 33 | 🌐 Rust | 📅 2023-05-21: Let's sudo by face recognition of Windows Hello on Windows Subsystem for Linux (WSL). It runs on both WSL 1 and WSL 2. This is a PAM module for Linux on WSL.
 * [Gmail on NT 3.51 with IE 1.5](https://virtuallyfun.com/wordpress/2019/07/12/gmail-on-nt-3-51-with-ie1-5-via-wrp-4-1/) via [WRP](https://github.com/tenox7/wrp) ⭐ 1,295 | 🐛 26 | 🌐 Go | 📅 2026-08-09
 * [VirtualKD-Redux](https://github.com/4d61726b/VirtualKD-Redux) ⭐ 986 | 🐛 2 | 🌐 C++ | 📅 2024-06-23: A revival and modernization of VirtualKD.
-* [NTVDMx64](https://github.com/leecher1337/ntvdmx64) ⭐ 956 | 🐛 87 | 🌐 C | 📅 2026-10-02: Run Microsoft Windows NTVDM (DOS) on 64bit Editions
+* [NTVDMx64](https://github.com/leecher1337/ntvdmx64) ⭐ 957 | 🐛 87 | 🌐 C | 📅 2026-10-02: Run Microsoft Windows NTVDM (DOS) on 64bit Editions
 * [TRACK THE STATUS OF YOUR AZURE ENVIRONMENT WITH POWER BI DASHBOARDS](https://techgenix.com/power-bi-dashboard-azure-governance/) [Continuous Cloud Optimization Power BI Dashboards Project](https://github.com/Azure/ccodashboard/) ⭐ 759 | 🐛 11 | 🌐 Wolfram Language | 📅 2026-09-22
 * [OrgKit](https://github.com/SwiftOnSecurity/OrgKit) ⭐ 616 | 🐛 4 | 🌐 PowerShell | 📅 2024-08-17: Provision a brand-new company with proper defaults in Windows, Offic365, and Azure
 * [Windows 10 and Server 2019 Secure Baseline GPO](https://github.com/mxk/win10-secure-baseline-gpo) ⭐ 258 | 🐛 0 | 🌐 Batchfile | 📅 2025-12-14: Windows 10 and Server 2016 Secure Baseline Group Policy
@@ -1243,16 +1243,16 @@ ansible_python_interpreter=/usr/bin/python3
 
 ## Support
 
-* [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) ⭐ 22,972 | 🐛 182 | 🌐 Python | 📅 2026-09-23: get things from one computer to another, safely.
-* [Open MCT](https://nasa.github.io/openmct/): is a next-generation mission control framework for visualization of data on desktop and mobile devices - [github](https://github.com/nasa/openmct) ⭐ 13,148 | 🐛 1,091 | 🌐 JavaScript | 📅 2026-09-29
+* [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) ⭐ 22,974 | 🐛 182 | 🌐 Python | 📅 2026-09-23: get things from one computer to another, safely.
+* [Open MCT](https://nasa.github.io/openmct/): is a next-generation mission control framework for visualization of data on desktop and mobile devices - [github](https://github.com/nasa/openmct) ⭐ 13,152 | 🐛 1,091 | 🌐 JavaScript | 📅 2026-09-29
 
 ### Video Conference
 
-* [Jitsi](https://jitsi.org/): Multi-platform open-source [video conferencing](https://github.com/jitsi/jitsi-meet) ⭐ 30,039 | 🐛 141 | 🌐 TypeScript | 📅 2026-10-02,
-  * [manual-install](https://github.com/jitsi/jitsi-meet/blob/master/doc/manual-install.md) ⭐ 30,039 | 🐛 141 | 🌐 TypeScript | 📅 2026-10-02
-  * [quick-install](https://github.com/jitsi/jitsi-meet/blob/master/doc/quick-install.md) ⭐ 30,039 | 🐛 141 | 🌐 TypeScript | 📅 2026-10-02
+* [Jitsi](https://jitsi.org/): Multi-platform open-source [video conferencing](https://github.com/jitsi/jitsi-meet) ⭐ 30,041 | 🐛 145 | 🌐 TypeScript | 📅 2026-10-03,
+  * [manual-install](https://github.com/jitsi/jitsi-meet/blob/master/doc/manual-install.md) ⭐ 30,041 | 🐛 145 | 🌐 TypeScript | 📅 2026-10-03
+  * [quick-install](https://github.com/jitsi/jitsi-meet/blob/master/doc/quick-install.md) ⭐ 30,041 | 🐛 145 | 🌐 TypeScript | 📅 2026-10-03
   * [Jitsi Meet](https://meet.jit.si/)
-* [PeerTube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,343 | 🐛 698 | 🌐 TypeScript | 📅 2026-10-02: Federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.
+* [PeerTube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,343 | 🐛 702 | 🌐 TypeScript | 📅 2026-10-02: Federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.
 * [Talk](https://github.com/vasanthv/talk) ⚠️ Archived: A group video call for the web. No signups. No downloads.
 * [webtty](https://github.com/maxmcd/webtty) ⭐ 2,814 | 🐛 18 | 🌐 Go | 📅 2024-12-11: Share a terminal session over WebRTC
 * [Hublin](https://github.com/linagora/hublin) ⚠️ Archived: An easy and free video conference service based on WebRTC
@@ -1261,14 +1261,14 @@ ansible_python_interpreter=/usr/bin/python3
 * [Apache OpenMeetings](https://openmeetings.apache.org/): provides video conferencing, instant messaging, white board, collaborative document editing and other groupware tools.
 * [Touch Portal](https://www.touch-portal.com/): The macro remote control for PC and Mac
 * OBS Studio:
-  * [obs-websocket](https://github.com/Palakis/obs-websocket) ⭐ 4,358 | 🐛 156 | 🌐 C++ | 📅 2026-10-02: Remote-control OBS Studio through WebSockets
+  * [obs-websocket](https://github.com/Palakis/obs-websocket) ⭐ 4,358 | 🐛 157 | 🌐 C++ | 📅 2026-10-02: Remote-control OBS Studio through WebSockets
   * [Stream Overlay - The Legend Of Zelda](https://8bitdoctor.blogspot.com/2018/07/stream-overlay-legend-of-zelda.html), [Doom](https://images.techhive.com/images/article/2016/10/20161010181638_1-100686915-orig.jpg)
 * [44 Virtual Icebreakers and Team-Building Activities to Try Immediately](https://www.tinypulse.com/blog/44-virtual-icebreakers-and-team-building-activities)
 * [jami](https://jami.net/): floss and universal communication platform, preserving privacy and freedom.
 
 ## Management
 
-* [Zulip server](https://github.com/zulip/zulip/) ⭐ 25,987 | 🐛 2,042 | 🌐 Python | 📅 2026-10-03 - powerful open source team chat
+* [Zulip server](https://github.com/zulip/zulip/) ⭐ 25,988 | 🐛 2,047 | 🌐 Python | 📅 2026-10-03 - powerful open source team chat
 * [Agile Lite](https://github.com/davebs/AgileLite) ⭐ 2,073 | 🐛 2 | 📅 2019-11-29: Agile without all the burnout.
 * [8 Patterns for Decentralised Organising](https://standupdev.com/wiki/doku.php?id=patterns_for_decentralised_organising)
 * [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing): Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
@@ -1277,12 +1277,12 @@ ansible_python_interpreter=/usr/bin/python3
 
 ## Career
 
-* [Open Source Society University](https://github.com/ossu/computer-science) ⭐ 209,705 | 🐛 28 | 🌐 HTML | 📅 2026-07-14: Path to a free self-taught education in Computer Science!
-* [Linkedin Quiz Answers, Skill Assessments Test](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) ⭐ 28,850 | 🐛 20 | 🌐 Python | 📅 2026-08-29: Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, css, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test.
-* [Reverse interview](https://github.com/viraptor/reverse-interview) ⭐ 28,604 | 🐛 23 | 📅 2025-02-19: Questions to ask the company during your interview.
+* [Open Source Society University](https://github.com/ossu/computer-science) ⭐ 209,727 | 🐛 29 | 🌐 HTML | 📅 2026-07-14: Path to a free self-taught education in Computer Science!
+* [Linkedin Quiz Answers, Skill Assessments Test](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) ⭐ 28,854 | 🐛 20 | 🌐 Python | 📅 2026-08-29: Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, css, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test.
+* [Reverse interview](https://github.com/viraptor/reverse-interview) ⭐ 28,605 | 🐛 23 | 📅 2025-02-19: Questions to ask the company during your interview.
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) ⭐ 17,179 | 🐛 20 | 📅 2026-05-16: Tools of The Trade, from Hacker News.
-* [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) ⭐ 11,871 | 🐛 19 | 📅 2024-11-19: A collection of \*nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
-* [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) ⭐ 11,871 | 🐛 19 | 📅 2024-11-19: A collection of \*nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition). Test your knowledge in different fields with these Q/A.
+* [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) ⭐ 11,870 | 🐛 19 | 📅 2024-11-19: A collection of \*nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
+* [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) ⭐ 11,870 | 🐛 19 | 📅 2024-11-19: A collection of \*nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition). Test your knowledge in different fields with these Q/A.
 * [What is a 1x Engineer?](https://1x.engineer/) - [github](https://github.com/cutenode/1x.engineer) ⭐ 2,108 | 🐛 33 | 📅 2024-04-09
 * [A Career Cold Start Algorithm](http://boz.com/articles/career-cold-start.html)
 * [How to say “no” to your boss, your boss’s boss, and even the CEO](https://codewithoutrules.com/2018/08/16/how-to-say-no/)
@@ -1329,8 +1329,8 @@ ansible_python_interpreter=/usr/bin/python3
 
 ## Organization
 
-* [WTF](https://wtfutil.com/) is a [personal information dashboard for your terminal](https://github.com/wtfutil/wtf) ⭐ 17,111 | 🐛 102 | 🌐 Go | 📅 2026-09-30, developed for those who spend most of their day in the command line.
-* [Shiori](https://github.com/RadhiFadlillah/shiori) ⭐ 11,663 | 🐛 119 | 🌐 Go | 📅 2026-07-10 is a simple bookmarks manager written in Go language
+* [WTF](https://wtfutil.com/) is a [personal information dashboard for your terminal](https://github.com/wtfutil/wtf) ⭐ 17,112 | 🐛 102 | 🌐 Go | 📅 2026-09-30, developed for those who spend most of their day in the command line.
+* [Shiori](https://github.com/RadhiFadlillah/shiori) ⭐ 11,662 | 🐛 119 | 🌐 Go | 📅 2026-07-10 is a simple bookmarks manager written in Go language
 * [reminiscence](https://github.com/kanishka-linux/reminiscence) ⭐ 1,856 | 🐛 27 | 🌐 JavaScript | 📅 2024-04-23: Self-Hosted Bookmark and Archive Manager
 * [Photograph Your Work](https://etbe.coker.com.au/2019/01/06/photograph-your-work/)
 * [How I Manage My Time](https://zwischenzugs.com/2017/12/03/how-i-manage-my-time/): by zwischenzugs
@@ -1338,22 +1338,22 @@ ansible_python_interpreter=/usr/bin/python3
 
 ## Knowlegde
 
-* [trilium](https://github.com/zadam/trilium) ⭐ 38,177 | 🐛 675 | 🌐 TypeScript | 📅 2026-10-03: Build your personal knowledge base with Trilium Notes
+* [trilium](https://github.com/zadam/trilium) ⭐ 38,193 | 🐛 670 | 🌐 TypeScript | 📅 2026-10-04: Build your personal knowledge base with Trilium Notes
 
 ***
 
 ## Tools
 
-* [code-server](https://github.com/codercom/code-server) ⭐ 79,524 | 🐛 156 | 🌐 TypeScript | 📅 2026-10-02: Run VS Code on a remote server.
+* [code-server](https://github.com/codercom/code-server) ⭐ 79,535 | 🐛 156 | 🌐 TypeScript | 📅 2026-10-02: Run VS Code on a remote server.
 * [Notable](https://notable.app/): [markdown app](https://github.com/notable/notable) ⭐ 23,492 | 🐛 732 | 📅 2024-06-21: The Markdown-based note-taking app that doesn't suck.
 * [Leon](https://github.com/leon-ai/leon) ⭐ 17,554 | 🐛 113 | 🌐 TypeScript | 📅 2026-10-03: is your open-source personal assistant.
 * [robotjs](https://github.com/octalmage/robotjs) ⭐ 12,775 | 🐛 9 | 🌐 C | 📅 2026-10-01: Node.js Desktop Automation.
 * [qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer) ⭐ 10,517 | 🐛 5 | 🌐 Go | 📅 2026-10-01:Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-* [rga](https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/):ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. [github repo](https://github.com/phiresky/ripgrep-all) ⭐ 9,866 | 🐛 80 | 🌐 Rust | 📅 2026-09-17
-* [elasticsearch-dump](https://github.com/taskrabbit/elasticsearch-dump) ⭐ 7,940 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-02: Import and export tools for elasticsearch
+* [rga](https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/):ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. [github repo](https://github.com/phiresky/ripgrep-all) ⭐ 9,868 | 🐛 80 | 🌐 Rust | 📅 2026-09-17
+* [elasticsearch-dump](https://github.com/taskrabbit/elasticsearch-dump) ⭐ 7,940 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-04: Import and export tools for elasticsearch
 * [peco](https://github.com/peco/peco) ⭐ 7,914 | 🐛 5 | 🌐 Go | 📅 2026-10-03: Simplistic interactive filtering tool.
 * [github personal-website](https://github.com/github/personal-website) ⚠️ Archived: Code that'll help you kickstart a personal website that showcases your work as a software developer.
-* [screenly-ose](https://github.com/Screenly/screenly-ose) ⭐ 3,680 | 🐛 47 | 🌐 Python | 📅 2026-10-02: The most popular digital signage project on Github!
+* [screenly-ose](https://github.com/Screenly/screenly-ose) ⭐ 3,682 | 🐛 48 | 🌐 Python | 📅 2026-10-03: The most popular digital signage project on Github!
 * [jabcode](https://github.com/jabcode/jabcode) ⭐ 1,026 | 🐛 28 | 🌐 C | 📅 2026-04-17: color bar code.
 * [tenacity](https://github.com/tenacityteam/tenacity) ⭐ 811 | 🐛 0 | 🌐 C++ | 📅 2026-09-25: FLOSS Audacity Fork · No telemetry, crash reports and other shenanigans like that!
 * [zero](https://github.com/KonstantinSchubert/zero) ⭐ 769 | 🐛 5 | 🌐 Python | 📅 2022-02-26: Local file system transparently swapping to the cloud
@@ -1370,7 +1370,7 @@ ansible_python_interpreter=/usr/bin/python3
 * [pbec](https://github.com/wilvk/pbec) ⭐ 19 | 🐛 5 | 🌐 C++ | 📅 2018-08-22: Polaris Bios Editor for the Console
 * [Whatsapp Automation](https://github.com/mnkgrover08/whatsapp_automation) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2019-01-15 is a collection of APIs that interact with WhatsApp messenger runn
 * PDF Files:
-  * [PDF Arranger](https://github.com/pdfarranger/pdfarranger) ⭐ 5,945 | 🐛 86 | 🌐 Python | 📅 2026-10-01: Small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface
+  * [PDF Arranger](https://github.com/pdfarranger/pdfarranger) ⭐ 5,947 | 🐛 86 | 🌐 Python | 📅 2026-10-01: Small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface
   * [OpenPDF](https://github.com/LibrePDF/OpenPDF) ⭐ 4,373 | 🐛 192 | 🌐 Java | 📅 2026-09-18: is a free Java library for creating and editing PDF files with a LGPL and MPL open source license. OpenPDF is based on a fork of iText. We welcome contributions from other developers. Please feel free to submit pull-requests and bugreports to this GitHub repository.
   * [How to merge or split pdf files using convert](https://linuxcommando.blogspot.com/2015/03/how-to-merge-or-split-pdf-files-using.html)
 * [Code Shelter](https://www.codeshelter.co/): Code Shelter is a collective of volunteer software developers that aims to help with maintaining popular open source projects whose authors need a hand or don't have the time to maintain them any more.
@@ -1412,8 +1412,8 @@ ansible_python_interpreter=/usr/bin/python3
 
 ### JSON
 
-* [simdjson](https://github.com/lemire/simdjson) ⭐ 24,342 | 🐛 74 | 🌐 C++ | 📅 2026-10-03: Parsing gigabytes of JSON per second.
-* [gron](https://github.com/tomnomnom/gron/) ⭐ 14,522 | 🐛 50 | 🌐 Go | 📅 2025-05-31: Make JSON greppable!
+* [simdjson](https://github.com/lemire/simdjson) ⭐ 24,349 | 🐛 74 | 🌐 C++ | 📅 2026-10-04: Parsing gigabytes of JSON per second.
+* [gron](https://github.com/tomnomnom/gron/) ⭐ 14,523 | 🐛 50 | 🌐 Go | 📅 2025-05-31: Make JSON greppable!
 * [JSON Web Tokens (JWT)](https://github.com/dwyl/learn-json-web-tokens) ⭐ 4,173 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-15: 🔐 Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
 * [yajl](https://github.com/lloyd/yajl) ⭐ 2,227 | 🐛 166 | 🌐 C | 📅 2026-08-24: A fast streaming JSON parsing library in C.
 * [PyJSONViewer](https://pypi.org/project/PyJSONViewer/) [repo](https://github.com/AtsushiSakai/PyJSONViewer) ⭐ 88 | 🐛 6 | 🌐 Python | 📅 2021-12-30
@@ -1421,31 +1421,31 @@ ansible_python_interpreter=/usr/bin/python3
 
 ### WebTools
 
-* [tldr](https://github.com/tldr-pages/tldr) ⭐ 63,812 | 🐛 254 | 🌐 Markdown | 📅 2026-10-03: [Simplified and community-driven man pages](https://tldr.sh).
-* [MKCERT](https://blog.filippo.io/mkcert-valid-https-certificates-for-localhost/): VALID HTTPS CERTIFICATES FOR LOCALHOST, [github](https://github.com/FiloSottile/mkcert) ⭐ 59,713 | 🐛 177 | 🌐 Go | 📅 2024-08-13.
-* [cypress](https://github.com/cypress-io/cypress) ⭐ 51,045 | 🐛 1,116 | 🌐 TypeScript | 📅 2026-10-02: Fast, easy and reliable testing for anything that runs in a browser.
-* [gogs](https://github.com/gogs/gogs) ⭐ 47,851 | 🐛 1,010 | 🌐 Go | 📅 2026-09-12: Gogs is a painless self-hosted Git service.
-* [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 46,395 | 🐛 190 | 🌐 TypeScript | 📅 2026-10-03: Everything is RSSible
-* [bitwarden](https://bitwarden.com/): online and free password manager. [core](https://github.com/bitwarden/core) ⭐ 20,229 | 🐛 238 | 🌐 C# | 📅 2026-10-03 on github.
-* [Mailinator](https://www.mailinator.com/): The Mailinator Email System puts millions of inboxes right at your fingertips. It is an amazing Email Workflow Testing tool for your Software or Service. [repo](https://github.com/mail-in-a-box/mailinabox) ⭐ 15,429 | 🐛 618 | 🌐 Python | 📅 2026-09-26
+* [tldr](https://github.com/tldr-pages/tldr) ⭐ 63,816 | 🐛 257 | 🌐 Markdown | 📅 2026-10-04: [Simplified and community-driven man pages](https://tldr.sh).
+* [MKCERT](https://blog.filippo.io/mkcert-valid-https-certificates-for-localhost/): VALID HTTPS CERTIFICATES FOR LOCALHOST, [github](https://github.com/FiloSottile/mkcert) ⭐ 59,718 | 🐛 177 | 🌐 Go | 📅 2024-08-13.
+* [cypress](https://github.com/cypress-io/cypress) ⭐ 51,042 | 🐛 1,117 | 🌐 TypeScript | 📅 2026-10-03: Fast, easy and reliable testing for anything that runs in a browser.
+* [gogs](https://github.com/gogs/gogs) ⭐ 47,855 | 🐛 1,010 | 🌐 Go | 📅 2026-09-12: Gogs is a painless self-hosted Git service.
+* [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 46,406 | 🐛 190 | 🌐 TypeScript | 📅 2026-10-04: Everything is RSSible
+* [bitwarden](https://bitwarden.com/): online and free password manager. [core](https://github.com/bitwarden/core) ⭐ 20,239 | 🐛 240 | 🌐 C# | 📅 2026-10-03 on github.
+* [Mailinator](https://www.mailinator.com/): The Mailinator Email System puts millions of inboxes right at your fingertips. It is an amazing Email Workflow Testing tool for your Software or Service. [repo](https://github.com/mail-in-a-box/mailinabox) ⭐ 15,430 | 🐛 618 | 🌐 Python | 📅 2026-09-26
 * [octalmage/robotjs: Node.js Desktop Automation.](https://github.com/octalmage/robotjs) ⭐ 12,775 | 🐛 9 | 🌐 C | 📅 2026-10-01
-* [jira\_clone](https://github.com/oldboyxx/jira_clone) ⭐ 11,055 | 🐛 10 | 🌐 JavaScript | 📅 2024-06-20: A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
-* [Next](https://next.atlas.engineer/) Browser: Be Productive. [github](https://github.com/atlas-engineer/next) ⭐ 11,027 | 🐛 147 | 🌐 Common Lisp | 📅 2026-02-26
-* [ulid](https://github.com/ulid/spec) ⭐ 10,840 | 🐛 74 | 📅 2024-07-20: The canonical spec for ulid - Universally Unique Lexicographically Sortable Identifier.
-* [WeasyPrint](https://github.com/Kozea/WeasyPrint) ⭐ 9,656 | 🐛 151 | 🌐 Python | 📅 2026-10-02: WeasyPrint converts web documents (HTML with CSS, SVG, …) to PDF.
+* [jira\_clone](https://github.com/oldboyxx/jira_clone) ⭐ 11,054 | 🐛 10 | 🌐 JavaScript | 📅 2024-06-20: A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
+* [Next](https://next.atlas.engineer/) Browser: Be Productive. [github](https://github.com/atlas-engineer/next) ⭐ 11,028 | 🐛 147 | 🌐 Common Lisp | 📅 2026-02-26
+* [ulid](https://github.com/ulid/spec) ⭐ 10,841 | 🐛 74 | 📅 2024-07-20: The canonical spec for ulid - Universally Unique Lexicographically Sortable Identifier.
+* [WeasyPrint](https://github.com/Kozea/WeasyPrint) ⭐ 9,657 | 🐛 151 | 🌐 Python | 📅 2026-10-02: WeasyPrint converts web documents (HTML with CSS, SVG, …) to PDF.
 * [Nebular](https://github.com/akveo/nebular) ⭐ 8,119 | 🐛 932 | 🌐 TypeScript | 📅 2026-01-15: Angular 6 Components, Auth and Security
-* [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,365 | 🐛 83 | 🌐 JavaScript | 📅 2026-10-03: A Node.js style checker and lint tool for Markdown/CommonMark files.
-* [thelounge](https://github.com/thelounge/thelounge) ⭐ 6,341 | 🐛 315 | 🌐 TypeScript | 📅 2026-09-30: Modern, responsive, cross-platform, self-hosted web IRC client.
-* [writefreely](https://github.com/writeas/writefreely) ⭐ 5,261 | 🐛 112 | 🌐 Go | 📅 2026-10-01: A painless, simple, federated blogging platform.
+* [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,367 | 🐛 83 | 🌐 JavaScript | 📅 2026-10-04: A Node.js style checker and lint tool for Markdown/CommonMark files.
+* [thelounge](https://github.com/thelounge/thelounge) ⭐ 6,342 | 🐛 315 | 🌐 TypeScript | 📅 2026-09-30: Modern, responsive, cross-platform, self-hosted web IRC client.
+* [writefreely](https://github.com/writeas/writefreely) ⭐ 5,262 | 🐛 112 | 🌐 Go | 📅 2026-10-01: A painless, simple, federated blogging platform.
 * [uncaptcha2](https://github.com/ecthros/uncaptcha2) ⭐ 4,914 | 🐛 7 | 🌐 Python | 📅 2019-01-18: defeating the latest version of ReCaptcha with 91% accuracy
 * [responder](https://github.com/kennethreitz/responder) ⭐ 3,616 | 🐛 1 | 🌐 Python | 📅 2026-08-01: a Sorta Familar HTTP Framework for Python (prototype)
-* [Archivy](https://github.com/archivy/archivy) ⭐ 3,280 | 🐛 42 | 🌐 Python | 📅 2023-07-25: is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
+* [Archivy](https://github.com/archivy/archivy) ⭐ 3,279 | 🐛 42 | 🌐 Python | 📅 2023-07-25: is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 * [DeleteFB](https://github.com/weskerfoot/DeleteFB) ⚠️ Archived: A Selenium script to delete your Facebook content.
 * [PyPy.js](https://pypyjs.org/) is an experiment in building a fast and compliant python environment for the web. [github](https://github.com/pypyjs/pypyjs) ⭐ 1,845 | 🐛 87 | 🌐 Python | 📅 2019-03-19
 * [jor1k](https://github.com/s-macke/jor1k) ⭐ 1,801 | 🐛 52 | 🌐 JavaScript | 📅 2025-11-01: Online OR1K Emulator running Linux
 * [strest](https://github.com/eykhagen/strest) ⚠️ Archived: ⚡️ Set up tests for REST in seconds with YAML
 * [Handesk](https://github.com/BadChoice/handesk) ⭐ 1,452 | 🐛 119 | 🌐 PHP | 📅 2025-08-12: A Powerful Laravel Help Desk and Lead Management App
-* [tslib](https://github.com/microsoft/tslib) ⭐ 1,344 | 🐛 58 | 🌐 TypeScript | 📅 2026-06-30: Runtime library for TypeScript helpers.
+* [tslib](https://github.com/microsoft/tslib) ⭐ 1,345 | 🐛 58 | 🌐 TypeScript | 📅 2026-06-30: Runtime library for TypeScript helpers.
 * [md-page](https://github.com/oscarmorrison/md-page) ⭐ 1,309 | 🐛 6 | 🌐 JavaScript | 📅 2024-04-04: 📝 create a webpage with just markdown
 * [qr-image](https://github.com/alexeyten/qr-image) ⭐ 1,064 | 🐛 15 | 🌐 JavaScript | 📅 2024-02-23: This is yet another QR Code generator.
 * [OPENBAZAAR](https://www.openbazaar.org/): decentralized marketplace server in go ([repo](https://github.com/OpenBazaar/openbazaar-go) ⚠️ Archived)
@@ -1489,8 +1489,8 @@ ansible_python_interpreter=/usr/bin/python3
 
 * [ZXing](https://github.com/zxing/zxing) ⭐ 34,114 | 🐛 5 | 🌐 Java | 📅 2026-09-21("Zebra Crossing"): barcode scanning library for Java, Android
 * [Amazing-QR](https://github.com/x-hw/amazing-qr) ⭐ 10,831 | 🐛 66 | 🌐 Python | 📅 2026-09-17:  amazing QR-Code generator in Python (supporting animated gif) - Python amazing.
-* [qrbtf](https://github.com/ciaochaos/qrbtf) ⭐ 7,020 | 🐛 18 | 🌐 TypeScript | 📅 2025-04-17: An art QR code (qrcode) beautifier.
-* [QR Code generator library](https://github.com/nayuki/QR-Code-generator) ⭐ 6,787 | 🐛 12 | 🌐 Java | 📅 2026-08-31: High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
+* [qrbtf](https://github.com/ciaochaos/qrbtf) ⭐ 7,019 | 🐛 18 | 🌐 TypeScript | 📅 2025-04-17: An art QR code (qrcode) beautifier.
+* [QR Code generator library](https://github.com/nayuki/QR-Code-generator) ⭐ 6,786 | 🐛 11 | 🌐 Java | 📅 2026-08-31: High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
 * [QR Code SVG Logo Generator](https://github.com/DDRBoxman/QR-Code-SVG-Logo-Generator) ⭐ 95 | 🐛 3 | 🌐 Python | 📅 2016-08-26.
 * [qrcode-bot](https://github.com/jveres/qrcode-bot) ⭐ 33 | 🐛 1 | 🌐 JavaScript | 📅 2018-12-10: Artistic QR code generator bot for Facebook Messenger
 * [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
@@ -1512,15 +1512,15 @@ ansible_python_interpreter=/usr/bin/python3
 
 #### Webdev
 
-* [DuckDB-Wasm](https://duckdb.org/2021/10/29/duckdb-wasm.html): Efficient Analytical SQL in the Browser. [duckdb](https://github.com/duckdb/duckdb) ⭐ 41,877 | 🐛 962 | 🌐 C++ | 📅 2026-10-02
-* [Head](https://github.com/joshbuchea/head) ⭐ 30,273 | 🐛 1 | 📅 2026-05-28: 🗿 A list of everything that *could* go in the head of your document. [htmlhead.dev](https://htmlhead.dev/)
-* [analytics](https://github.com/plausible/analytics) ⭐ 29,286 | 🐛 71 | 🌐 Elixir | 📅 2026-10-02: Simple and privacy-friendly alternative to Google Analytics.
-* [NES.css](https://bcrikko.github.io/NES.css/) - [github](https://github.com/BcRikko/NES.css) ⭐ 21,844 | 🐛 78 | 🌐 SCSS | 📅 2024-01-17
-* [Super Tiny Social Icons](https://github.com/edent/SuperTinyIcons) ⭐ 15,402 | 🐛 34 | 🌐 Python | 📅 2026-05-18: Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos.
-* [kratos](https://github.com/ory/kratos) ⭐ 13,905 | 🐛 233 | 🌐 Go | 📅 2026-07-29: Never build user login, user registration, 2fa, profile management ever again! Works on any operating system, cloud, with any programming language, user interface, and user experience! Written in Go.
+* [DuckDB-Wasm](https://duckdb.org/2021/10/29/duckdb-wasm.html): Efficient Analytical SQL in the Browser. [duckdb](https://github.com/duckdb/duckdb) ⭐ 41,891 | 🐛 983 | 🌐 C++ | 📅 2026-10-02
+* [Head](https://github.com/joshbuchea/head) ⭐ 30,271 | 🐛 1 | 📅 2026-05-28: 🗿 A list of everything that *could* go in the head of your document. [htmlhead.dev](https://htmlhead.dev/)
+* [analytics](https://github.com/plausible/analytics) ⭐ 29,304 | 🐛 71 | 🌐 Elixir | 📅 2026-10-02: Simple and privacy-friendly alternative to Google Analytics.
+* [NES.css](https://bcrikko.github.io/NES.css/) - [github](https://github.com/BcRikko/NES.css) ⭐ 21,845 | 🐛 78 | 🌐 SCSS | 📅 2024-01-17
+* [Super Tiny Social Icons](https://github.com/edent/SuperTinyIcons) ⭐ 15,401 | 🐛 34 | 🌐 Python | 📅 2026-05-18: Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos.
+* [kratos](https://github.com/ory/kratos) ⭐ 13,906 | 🐛 233 | 🌐 Go | 📅 2026-07-29: Never build user login, user registration, 2fa, profile management ever again! Works on any operating system, cloud, with any programming language, user interface, and user experience! Written in Go.
 * [Spectre.css](https://github.com/picturepan2/spectre) ⭐ 11,310 | 🐛 193 | 🌐 CSS | 📅 2024-04-11: A Lightweight, Responsive and Modern CSS Framework
 * [revery](https://github.com/revery-ui/revery) ⭐ 8,039 | 🐛 112 | 🌐 Reason | 📅 2022-02-13: ⚡️ Native, high-performance, cross-platform desktop apps - built with Reason!
-* [fontello](https://github.com/fontello/fontello) ⭐ 7,084 | 🐛 69 | 🌐 JavaScript | 📅 2022-12-31: Iconic fonts scissors
+* [fontello](https://github.com/fontello/fontello) ⭐ 7,085 | 🐛 69 | 🌐 JavaScript | 📅 2022-12-31: Iconic fonts scissors
 * [material-kit](https://github.com/creativetimofficial/material-kit) ⭐ 5,920 | 🐛 26 | 🌐 HTML | 📅 2024-10-28: Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design.
 * [VisBug](https://github.com/GoogleChromeLabs/projectvisbug) ⚠️ Archived: 🎨 Make any webpage feel like an artboard, download extension here
 * [tellform](https://github.com/tellform/tellform) ⚠️ Archived: ✏️ Free Opensource Alternative to TypeForm or Google Forms ⛺. [site](https://tellform.com/)
@@ -1530,8 +1530,8 @@ ansible_python_interpreter=/usr/bin/python3
 * [Themes for Pelican](https://github.com/getpelican/pelican-themes) ⭐ 2,162 | 🐛 111 | 🌐 CSS | 📅 2025-12-15
 * [react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume) ⭐ 2,146 | 🐛 22 | 🌐 JavaScript | 📅 2026-02-25: 💼 🎨 A modern software developer resume built with React and JSONResume
 * [hostyoself](https://github.com/schollz/hostyoself) ⭐ 1,848 | 🐛 11 | 🌐 Go | 📅 2023-09-18: Host yo' self from your computer, your browser, your phone, etc.
-* [wedding-website](https://github.com/rampatra/wedding-website) ⭐ 1,834 | 🐛 35 | 🌐 HTML | 📅 2025-10-08
-* [model\_bakery](https://github.com/model-bakers/model_bakery) ⭐ 1,007 | 🐛 12 | 🌐 Python | 📅 2026-10-01: Object factory for django.
+* [wedding-website](https://github.com/rampatra/wedding-website) ⭐ 1,835 | 🐛 35 | 🌐 HTML | 📅 2025-10-08
+* [model\_bakery](https://github.com/model-bakers/model_bakery) ⭐ 1,007 | 🐛 10 | 🌐 Python | 📅 2026-10-03: Object factory for django.
 * [Flask Session Cookie Decoder/Encoder](https://github.com/noraj/flask-session-cookie-manager) ⭐ 771 | 🐛 0 | 🌐 Python | 📅 2025-02-08
 * [css-components](https://github.com/felipefialho/css-components) ⭐ 695 | 🐛 4 | 🌐 CSS | 📅 2026-10-01: A set of common UI Components using the power of CSS and without Javascript.
 * [Flask Google Maps](https://github.com/flask-extensions/Flask-GoogleMaps) ⭐ 655 | 🐛 43 | 🌐 Python | 📅 2024-05-30: Easy way to add GoogleMaps to Flask applications.
@@ -1558,14 +1558,14 @@ ansible_python_interpreter=/usr/bin/python3
 * [Are You a Blogger or Publisher?](https://websitevoice.com/): Turn your articles to high-quality audio for your audience to listen while they’re busy multitasking or on the go.
 * [Inside look at modern web browser (part 1)](https://developers.google.com/web/updates/2018/09/inside-browser-part1): In this 4-part blog series, we’ll look inside the Chrome browser from high-level architecture to the specifics of the rendering pipeline.
 * Forms:
-  * [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) ⭐ 15,910 | 🐛 132 | 🌐 TypeScript | 📅 2026-10-03: A React component for building Web forms from JSON Schema.
+  * [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) ⭐ 15,909 | 🐛 134 | 🌐 TypeScript | 📅 2026-10-04: A React component for building Web forms from JSON Schema.
   * [schemaform](http://schemaform.io/): Generate forms from a JSON schema, with AngularJS! [github](https://github.com/json-schema-form/angular-schema-form) ⭐ 2,454 | 🐛 128 | 🌐 JavaScript | 📅 2023-02-20
   * [json-forms](https://github.com/brutusin/json-forms) ⭐ 619 | 🐛 61 | 🌐 JavaScript | 📅 2023-07-15: JSON Schema to HTML form generator, supporting dynamic subschemas (on the fly resolution). Extensible and customizable library with zero dependencies. Bootstrap add-ons provided.
   * [Formasaurus](https://github.com/TeamHG-Memex/Formasaurus) ⭐ 121 | 🐛 15 | 🌐 HTML | 📅 2026-04-08: Formasaurus tells you the type of an HTML form and its fields using machine learning.
 * Presentantions:
   * [markdeck](https://github.com/arnehilmann/markdeck) ⭐ 1,273 | 🐛 11 | 🌐 HTML | 📅 2023-02-04: presentations as code - author cool slide decks, text-only, offline-ready, collaborative.
 * PHP:
-  * [A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem](https://github.com/chiraggude/awesome-laravel) ⭐ 13,111 | 🐛 93 | 📅 2024-07-03
+  * [A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem](https://github.com/chiraggude/awesome-laravel) ⭐ 13,110 | 🐛 93 | 📅 2024-07-03
   * [PHP Apprentice](https://phpapprentice.com/): An online book for learning PHP. [github](https://github.com/restoreddev/phpapprentice) ⭐ 163 | 🐛 3 | 🌐 CSS | 📅 2023-04-25
   * [JHRW](https://github.com/galvao/JHRW) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2020-04-15: JavaScript HTTP Request Wrapper.  A wrapper for so-called "AJAX" Requests.
   * [My Modern PHP Development Setup](https://johnmackenzie.co.uk/post/my-modern-php-development-setup/): With this combination of formatters, linters and build tools I am able to create a fully testible, completely portable solution with adheres to PSR coding standards.
@@ -1604,13 +1604,13 @@ ansible_python_interpreter=/usr/bin/python3
 
 ##### Backend
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,547 | 🐛 684 | 🌐 PHP | 📅 2026-10-03: is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment .
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,556 | 🐛 697 | 🌐 PHP | 📅 2026-10-04: is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment .
 
 ##### JavaScript
 
-* [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) ⭐ 129,309 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-02: Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
-* [lerna](https://github.com/lerna/lerna) ⭐ 36,045 | 🐛 291 | 🌐 TypeScript | 📅 2026-10-03: A tool for managing JavaScript projects with multiple packages.
-* [Handsontable](https://github.com/handsontable/handsontable) ⭐ 22,057 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-02: JavaScript/HTML5 Data Grid Component with Spreadsheet Look & Feel. Available for React, Vue and Angular.
+* [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) ⭐ 129,315 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-02: Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
+* [lerna](https://github.com/lerna/lerna) ⭐ 36,044 | 🐛 291 | 🌐 TypeScript | 📅 2026-10-03: A tool for managing JavaScript projects with multiple packages.
+* [Handsontable](https://github.com/handsontable/handsontable) ⭐ 22,057 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-03: JavaScript/HTML5 Data Grid Component with Spreadsheet Look & Feel. Available for React, Vue and Angular.
 * [nazca](https://github.com/Qinti/nazca) ⭐ 295 | 🐛 3 | 🌐 JavaScript | 📅 2023-07-13: A new way of creating GUI in the web
 * [The cost of JavaScript in 2019](https://v8.dev/blog/cost-of-javascript-2019)
 * [Aurelia](https://aurelia.io/): is a collection of Modern JavaScript modules, which when used together, function as a powerful platform for building browser, desktop and mobile applications, all open source and built on open web standards.
@@ -1626,7 +1626,7 @@ ansible_python_interpreter=/usr/bin/python3
 
 ##### API
 
-* [Tyk API Gateway](https://github.com/tyktechnologies/tyk) ⭐ 10,844 | 🐛 511 | 🌐 Go | 📅 2026-10-02:  Tyk Open Source API Gateway written in Go
+* [Tyk API Gateway](https://github.com/tyktechnologies/tyk) ⭐ 10,845 | 🐛 511 | 🌐 Go | 📅 2026-10-02:  Tyk Open Source API Gateway written in Go
 * [scanapi](https://github.com/scanapi/scanapi) ⭐ 1,583 | 🐛 28 | 🌐 Python | 📅 2026-10-01: Automated Integration Testing and Live Documentation for your API
 * [fastapi-course](https://github.com/Sanjeev-Thiyagarajan/fastapi-course) ⭐ 1,157 | 🐛 31 | 🌐 Python | 📅 2024-08-09
 * [I created Postwoman 👽](https://www.indiehackers.com/post/17788d573f)- An [online](https://liyasthomas.github.io/postwoman/), open source API request builder.
@@ -1636,9 +1636,9 @@ ansible_python_interpreter=/usr/bin/python3
 
 ##### REST API
 
-* [REST Security Cheat Sheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/REST_Security_Cheat_Sheet.md) ⭐ 33,395 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-03: CheatSheetSeries
-* [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,330 | 🐛 2 | 📅 2026-07-21: Checklist of the most important security countermeasures when designing, testing, and releasing your API
-* [GraphQL](https://graphql.org/): GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools. [graphiql](https://github.com/graphql/graphiql) ⭐ 16,915 | 🐛 393 | 🌐 TypeScript | 📅 2026-10-01: An in-browser IDE for exploring GraphQL.
+* [REST Security Cheat Sheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/REST_Security_Cheat_Sheet.md) ⭐ 33,413 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-03: CheatSheetSeries
+* [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,331 | 🐛 2 | 📅 2026-07-21: Checklist of the most important security countermeasures when designing, testing, and releasing your API
+* [GraphQL](https://graphql.org/): GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools. [graphiql](https://github.com/graphql/graphiql) ⭐ 16,914 | 🐛 393 | 🌐 TypeScript | 📅 2026-10-01: An in-browser IDE for exploring GraphQL.
 * [REST API Testing Tutorial](https://www.guru99.com/testing-rest-api-manually.html): Sample Manual Test Case
 * [The Web API Checklist](https://mathieu.fenniak.net/the-api-checklist/): 43 Things To Think About When Designing, Testing, and Releasing your API
 * [REST API Checklist](https://www.kennethlange.com/rest-api-checklist/)
@@ -1650,7 +1650,7 @@ ansible_python_interpreter=/usr/bin/python3
 
 ### Web Services
 
-* [nuclear](https://github.com/nukeop/nuclear) ⭐ 18,576 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-03: Popcorn Time for music. [github](https://github.com/nukeop/nuclear) ⭐ 18,576 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-03
+* [nuclear](https://github.com/nukeop/nuclear) ⭐ 18,592 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-04: Popcorn Time for music. [github](https://github.com/nukeop/nuclear) ⭐ 18,592 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-04
 * [The New Able Editor](https://able.bio/rhett/the-new-able-editor--596ha6x). [suggestion-box](https://github.com/able-bio/suggestion-box) ⭐ 4 | 🐛 15 | 📅 2018-11-19: A place to submit issues for bugs, feature requests and other ideas related to Able.
 * [Notion](https://www.notion.so/): Write, plan, collaborate, and get organized.
 * [Postmake](https://postmake.io/): A directory of the best tools and resources for your projects
@@ -1663,7 +1663,7 @@ ansible_python_interpreter=/usr/bin/python3
 * [accountanalysis](http://accountanalysis.app/): This tool enables you to evaluate Twitter accounts. For example how automated they are, how many Retweets they post, or which websites they link to most often.
 * [Hosted Comments Service | Remarkbox](https://www.remarkbox.com/remarkbox-is-now-pay-what-you-can.html)
 * Twitter:
-  * [Tweak New Twitter](https://github.com/insin/tweak-new-twitter/) ⭐ 2,637 | 🐛 328 | 🌐 JavaScript | 📅 2026-10-02: Browser extension which removes algorithmic content from Twitter, hides news & trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements.
+  * [Tweak New Twitter](https://github.com/insin/tweak-new-twitter/) ⭐ 2,636 | 🐛 329 | 🌐 JavaScript | 📅 2026-10-02: Browser extension which removes algorithmic content from Twitter, hides news & trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements.
   * [semiephemeral](https://semiphemeral.com/): Automatically delete your old tweets, except for the ones you want to keep. [repo](https://github.com/micahflee/semiphemeral) ⚠️ Archived
   * [accountanalysis](http://accountanalysis.app/): This tool enables you to evaluate Twitter accounts. For example how automated they are, how many Retweets they post, or which websites they link to most often.
   * [How To Get Tweets From A Twitter Account Using Python And Tweepy](https://labsblog.f-secure.com/2018/01/26/how-to-get-tweets-from-a-twitter-account-using-python-and-tweepy/)
@@ -1671,7 +1671,7 @@ ansible_python_interpreter=/usr/bin/python3
 
 #### Graphics
 
-* [superwhite](https://github.com/dtinth/superwhite) ⭐ 1,641 | 🐛 7 | 📅 2023-08-15: display a very bright white color on HDR-enabled displays
+* [superwhite](https://github.com/dtinth/superwhite) ⭐ 1,642 | 🐛 7 | 📅 2023-08-15: display a very bright white color on HDR-enabled displays
 * [PaperView](https://glouw.com/2020/08/02/Paperview.html), repo:[PAPERVIEW](https://github.com/glouw/paperview) ⭐ 1,486 | 🐛 20 | 🌐 C | 📅 2023-03-05: A high performance X11 animated wallpaper setter
 * [Upscale bitmap images with better results](https://fedoramagazine.org/upscale-bitmap-images-better-results/), [simila](https://github.com/lupoDharkael/smilla-enlarger) ⚠️ Archived.
 * [Rexpaint](https://www.gridsagegames.com/rexpaint/): is a powerful and user-friendly ASCII art editor. Use a wide variety of tools to create ANSI block/line art, roguelike mockups and maps, UI layouts, and for other game development needs.
@@ -1685,7 +1685,7 @@ ansible_python_interpreter=/usr/bin/python3
 * [Tale](https://github.com/chesterhow/tale) ⚠️ Archived is a minimal Jekyll theme curated for storytellers.
 * [Trailing Slash Guide](https://github.com/slorber/trailing-slash-guide) ⭐ 436 | 🐛 5 | 🌐 HTML | 📅 2024-11-19: The ultimate resource to fix url trailing slash issues in static deployments (static websites, Jamstack).
 * Static Site Generators:
-  * [Publii](https://github.com/GetPublii/Publii) ⭐ 7,326 | 🐛 302 | 🌐 HTML | 📅 2026-10-02 is a desktop-based CMS for Windows and Mac that makes creating static websites fast and hassle-free, even for beginners.
+  * [Publii](https://github.com/GetPublii/Publii) ⭐ 7,326 | 🐛 302 | 🌐 HTML | 📅 2026-10-03 is a desktop-based CMS for Windows and Mac that makes creating static websites fast and hassle-free, even for beginners.
   * [notablog](https://github.com/dragonman225/notablog) ⭐ 682 | 🐛 23 | 🌐 TypeScript | 📅 2023-09-20: Generate a minimalistic blog from a Notion table.
   * [VuePress](https://forestry.io/blog/vuepress-brings-your-documentation-to-life/) is a static site generator based on Vue JavaScript framework.
   * [StaticGen](https://www.staticgen.com/): Top Open Source Static Site Generators
@@ -1757,10 +1757,10 @@ $INDEX
 * [Cloud Custodian](https://cloudcustodian.io/): [Opensource Cloud Security, Governance, and Management](https://github.com/cloud-custodian/cloud-custodian) ⭐ 6,079 | 🐛 1,772 | 🌐 Python | 📅 2026-10-01
 * [Security Monkey](https://github.com/netflix/security_monkey) ⚠️ Archived: Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 * [StreamAlert](https://github.com/airbnb/streamalert) ⭐ 2,891 | 🐛 90 | 🌐 Python | 📅 2023-10-23 - Serverless, Realtime Data Analysis Framework
-* [Awesome Cloud Native](https://github.com/rootsongjc/awesome-cloud-native) ⭐ 2,454 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-02:  A curated list for awesome cloud native tools, software and tutorials.
+* [Awesome Cloud Native](https://github.com/rootsongjc/awesome-cloud-native) ⭐ 2,454 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-04:  A curated list for awesome cloud native tools, software and tutorials.
 * [Awesome Azure Learning](https://github.com/ddneves/awesome-azure-learning) ⭐ 946 | 🐛 4 | 🌐 PowerShell | 📅 2024-02-13: This repo includes plenty of references for Azure learning, especially for the Azure certs and Azure architecture, and any other learning materials e.g. security and automation topics.
 * [cloudsploit](https://github.com/cloudsploit). [security remediation guides](https://github.com/cloudsploit/security-remediation-guides) ⭐ 745 | 🐛 94 | 📅 2025-11-24
-* [Software for Open Networking in the Cloud - SONiC](https://github.com/Azure/sonic-mgmt) ⭐ 276 | 🐛 2,943 | 🌐 Python | 📅 2026-10-03: Configuration management examples for SONiC.
+* [Software for Open Networking in the Cloud - SONiC](https://github.com/Azure/sonic-mgmt) ⭐ 276 | 🐛 2,945 | 🌐 Python | 📅 2026-10-04: Configuration management examples for SONiC.
 * [no more google](https://nomoregoogle.com)
 * [Mapping of On-Premises Security Controls vs. Major Cloud Providers Services](http://www.eventid.net/docs/onprem_to_cloud.asp)
 * [ThreatResponse](https://threatresponse.cloud/): Open Source Incident Response Toolkit
@@ -1773,13 +1773,13 @@ $INDEX
 
 ### AWS
 
-* [open-guides/og-aws: 📙 Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws) ⭐ 36,467 | 🐛 159 | 🌐 Shell | 📅 2024-08-16
-* [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,917 | 🐛 391 | 🌐 Python | 📅 2026-10-02: AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark and DOZENS of additional checks including GDPR and HIPAA (+100). [AWS CIS](https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf)
-* [Awesome AWS](https://github.com/donnemartin/awesome-aws) ⭐ 14,165 | 🐛 104 | 🌐 Python | 📅 2024-03-12: A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.
+* [open-guides/og-aws: 📙 Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws) ⭐ 36,466 | 🐛 159 | 🌐 Shell | 📅 2024-08-16
+* [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,930 | 🐛 410 | 🌐 Python | 📅 2026-10-03: AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark and DOZENS of additional checks including GDPR and HIPAA (+100). [AWS CIS](https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf)
+* [Awesome AWS](https://github.com/donnemartin/awesome-aws) ⭐ 14,166 | 🐛 104 | 🌐 Python | 📅 2024-03-12: A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.
 * [bottlerocket](https://github.com/bottlerocket-os/bottlerocket) ⭐ 9,674 | 🐛 201 | 🌐 Rust | 📅 2026-10-02: An operating system designed for hosting containers
 * [CloudMapper](https://github.com/duo-labs/cloudmapper) ⭐ 6,288 | 🐛 211 | 🌐 JavaScript | 📅 2024-07-15: CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 * [consoleme](https://github.com/Netflix/consoleme) ⚠️ Archived: ConsoleMe consolidates the management of multiple AWS accounts into a single interface. It allows your end-users and administrators to get credentials for your different accounts, and allows your users/administrators to manage or request cloud permissions.
-* [AWS Toolbox](https://github.com/dannysteenman/aws-toolbox) ⭐ 1,790 | 🐛 60 | 🌐 TypeScript | 📅 2026-10-03: A collection of useful Shell & Python scripts that make your life easier in AWS.
+* [AWS Toolbox](https://github.com/dannysteenman/aws-toolbox) ⭐ 1,790 | 🐛 61 | 🌐 TypeScript | 📅 2026-10-03: A collection of useful Shell & Python scripts that make your life easier in AWS.
 * [finala](https://github.com/similarweb/finala) ⭐ 733 | 🐛 39 | 🌐 Go | 📅 2023-12-18: A resource cloud scanner that analyzes and reports about wasteful and unused resources to cut unwanted expenses.
 * [Awesome AWS Certifications](https://github.com/ptcodes/awesome-aws-certifications) ⭐ 706 | 🐛 6 | 📅 2026-06-16: A curated list of AWS certification materials: videos courses, practice exams, prep tips, etc.
 * [AWS Service Catalog Reference Architecture](https://github.com/aws-samples/aws-service-catalog-reference-architectures) ⭐ 445 | 🐛 20 | 🌐 JavaScript | 📅 2025-10-06: Sample CloudFormation templates and architecture for AWS Service Catalog.
@@ -1807,7 +1807,7 @@ $INDEX
 ## IoT
 
 * [TDengine](https://tdengine.com/). [repo](https://github.com/taosdata/TDengine) ⭐ 25,150 | 🐛 438 | 🌐 C | 📅 2026-09-29
-* [Disque](https://github.com/antirez/disque) ⭐ 8,076 | 🐛 59 | 🌐 C | 📅 2021-03-17 is a distributed message broker
+* [Disque](https://github.com/antirez/disque) ⭐ 8,077 | 🐛 59 | 🌐 C | 📅 2021-03-17 is a distributed message broker
 * [jerryscript](https://github.com/jerryscript-project/jerryscript) ⭐ 7,422 | 🐛 254 | 🌐 C | 📅 2025-10-08: Ultra-lightweight JavaScript engine for the Internet of Things.
 * [openedge](https://github.com/baidu/openedge) ⭐ 1,900 | 🐛 7 | 🌐 Go | 📅 2024-05-11: Extend cloud computing, data and service seamlessly to edge devices.
 * [Espressif IDF Eclipse Plugins](https://github.com/espressif/idf-eclipse-plugin) ⭐ 376 | 🐛 54 | 🌐 Java | 📅 2026-10-02: Eclipse plugin for ESP-IDF CMake based projects (4.x and above)
@@ -1832,9 +1832,9 @@ $INDEX
 ### Pub/Sub
 
 * MQTT:
-  * [EMQ X Broker](https://github.com/emqx/emqx) ⭐ 16,769 | 🐛 246 | 🌐 Erlang | 📅 2026-10-02 - Scalable Distributed MQTT Message Broker for IoT in 5G Era. [site](https://emqx.io)
-  * [Apache Pulsar](https://pulsar.apache.org/) is an open-source distributed pub-sub messaging system originally created at Yahoo and now part of the Apache Software Foundation. [pulsar](https://github.com/apache/pulsar) ⭐ 15,340 | 🐛 1,771 | 🌐 Java | 📅 2026-10-02 [pulsar-manager](https://github.com/apache/pulsar-manager) ⭐ 539 | 🐛 158 | 🌐 Vue | 📅 2026-09-29.
-  * [VerneMQ](https://github.com/vernemq/vernemq) ⭐ 3,637 | 🐛 175 | 🌐 Erlang | 📅 2026-10-02: A Distributed MQTT Broker
+  * [EMQ X Broker](https://github.com/emqx/emqx) ⭐ 16,771 | 🐛 244 | 🌐 Erlang | 📅 2026-10-04 - Scalable Distributed MQTT Message Broker for IoT in 5G Era. [site](https://emqx.io)
+  * [Apache Pulsar](https://pulsar.apache.org/) is an open-source distributed pub-sub messaging system originally created at Yahoo and now part of the Apache Software Foundation. [pulsar](https://github.com/apache/pulsar) ⭐ 15,340 | 🐛 1,777 | 🌐 Java | 📅 2026-10-03 [pulsar-manager](https://github.com/apache/pulsar-manager) ⭐ 539 | 🐛 158 | 🌐 Vue | 📅 2026-09-29.
+  * [VerneMQ](https://github.com/vernemq/vernemq) ⭐ 3,637 | 🐛 177 | 🌐 Erlang | 📅 2026-10-02: A Distributed MQTT Broker
   * [RPi Reporter MQTT2HA Daemon](https://github.com/ironsheep/RPi-Reporter-MQTT2HA-Daemon) ⭐ 560 | 🐛 80 | 🌐 Python | 📅 2024-07-14
   * [Introduction to MQTT](https://blog.teserakt.io/2018/11/01/introduction-to-mqtt/)
   * Cloud Pub/Sub: [Ordering messages](https://cloud.google.com/pubsub/docs/ordering)
@@ -1847,13 +1847,13 @@ $INDEX
 
 ## Fun
 
-* [Jellyfin](https://jellyfin.org/): The Free Software Media System. [repo](https://github.com/jellyfin/jellyfin) ⭐ 57,728 | 🐛 733 | 🌐 C# | 📅 2026-10-02
-* [So Doom (1993) has a neat bit of encryption in it. It's not very strong encryption, but it's still encryption.](https://twitter.com/Foone/status/1189249817492557826). [DOOM Source Code](https://github.com/id-Software/DOOM) ⭐ 19,635 | 🐛 15 | 🌐 C++ | 📅 2024-05-24
-* [wtf](https://github.com/senorprogrammer/wtf) ⭐ 17,111 | 🐛 102 | 🌐 Go | 📅 2026-09-30: The personal information dashboard for your terminal.
+* [Jellyfin](https://jellyfin.org/): The Free Software Media System. [repo](https://github.com/jellyfin/jellyfin) ⭐ 57,752 | 🐛 734 | 🌐 C# | 📅 2026-10-04
+* [So Doom (1993) has a neat bit of encryption in it. It's not very strong encryption, but it's still encryption.](https://twitter.com/Foone/status/1189249817492557826). [DOOM Source Code](https://github.com/id-Software/DOOM) ⭐ 19,643 | 🐛 15 | 🌐 C++ | 📅 2024-05-24
+* [wtf](https://github.com/senorprogrammer/wtf) ⭐ 17,112 | 🐛 102 | 🌐 Go | 📅 2026-09-30: The personal information dashboard for your terminal.
 * [Posters, drawings...](https://github.com/corkami/pics) ⭐ 11,491 | 🐛 5 | 🌐 Assembly | 📅 2024-02-18
 * [Trump2Ca$h](https://github.com/maxbbraun/trump2cash) ⚠️ Archived: A stock trading bot powered by Trump tweets
-* [srsLTE](https://github.com/srsLTE/srsLTE) ⭐ 4,086 | 🐛 356 | 🌐 C++ | 📅 2026-09-14: Open source SDR LTE software suite from Software Radio Systems (SRS)
-* [VIM Clutch](https://github.com/alevchuk/vim-clutch) ⭐ 3,596 | 🐛 32 | 📅 2021-10-21 is a hardware pedal for improved text editing speed for users of the magnificent VIM text editor
+* [srsLTE](https://github.com/srsLTE/srsLTE) ⭐ 4,087 | 🐛 356 | 🌐 C++ | 📅 2026-09-14: Open source SDR LTE software suite from Software Radio Systems (SRS)
+* [VIM Clutch](https://github.com/alevchuk/vim-clutch) ⭐ 3,595 | 🐛 32 | 📅 2021-10-21 is a hardware pedal for improved text editing speed for users of the magnificent VIM text editor
 * [vim\_cubed](https://github.com/oakes/vim_cubed) ⭐ 2,732 | 🐛 34 | 🌐 Nim | 📅 2022-04-15: Vim rendered on a cube for no reason.
 * [fx\_cast](https://hensm.github.io/fx_cast/): chromecast for firefox. Enables Chromecast support for casting web apps (like Netflix or BBC iPlayer), HTML5 video and screen/tab sharing. [github](https://github.com/hensm/fx_cast) ⭐ 2,050 | 🐛 59 | 🌐 TypeScript | 📅 2026-03-14
 * (pt-br) [ligar-cobranca](https://github.com/GtOkAi/ligar-cobranca) ⭐ 1,778 | 🐛 4 | 🌐 JavaScript | 📅 2026-02-15: Ligue automaticamente para empresas de cobrança e deixe uma voz falando "Alô?" sem parar.
@@ -1889,15 +1889,15 @@ $INDEX
 
 ## Stuff
 
-* [olive](https://github.com/olive-editor/olive/) ⭐ 9,131 | 🐛 159 | 🌐 C++ | 📅 2024-12-05: Professional open-source NLE video editor
-* [Sigil](https://github.com/Sigil-Ebook/Sigil) ⭐ 6,975 | 🐛 4 | 🌐 C++ | 📅 2026-10-01: is a multi-platform EPUB ebook editor.
-* [kdenlive](https://github.com/KDE/kdenlive) ⭐ 5,781 | 🐛 0 | 🌐 C++ | 📅 2026-10-03: Free and open source video editor, based on MLT Framework and KDE Frameworks 5
+* [olive](https://github.com/olive-editor/olive/) ⭐ 9,132 | 🐛 159 | 🌐 C++ | 📅 2024-12-05: Professional open-source NLE video editor
+* [Sigil](https://github.com/Sigil-Ebook/Sigil) ⭐ 6,977 | 🐛 4 | 🌐 C++ | 📅 2026-10-01: is a multi-platform EPUB ebook editor.
+* [kdenlive](https://github.com/KDE/kdenlive) ⭐ 5,787 | 🐛 0 | 🌐 C++ | 📅 2026-10-03: Free and open source video editor, based on MLT Framework and KDE Frameworks 5
   * [10 tools for visual effects in Linux with Kdenlive](https://opensource.com/life/15/12/10-kdenlive-tools)
   * [Kdenlive/Manual/Project Menu/Online Resources](https://userbase.kde.org/Kdenlive/Manual/Project_Menu/Online_Resources)
   * [Kdenlive/Manual/Effects/Blur and hide/Auto Mask](https://userbase.kde.org/Kdenlive/Manual/Effects/Blur_and_hide/Auto_Mask)
 * [Personal Management System](https://github.com/Volmarg/personal-management-system) ⭐ 4,168 | 🐛 6 | 🌐 PHP | 📅 2026-10-01:  Your web application for managing personal data.
-* [QDirStat](https://github.com/shundhammer/qdirstat) ⭐ 2,607 | 🐛 0 | 🌐 C++ | 📅 2026-10-02: Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
-* [Awesome Made by Brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) ⭐ 1,885 | 🐛 3 | 📅 2026-09-08
+* [QDirStat](https://github.com/shundhammer/qdirstat) ⭐ 2,610 | 🐛 0 | 🌐 C++ | 📅 2026-10-02: Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
+* [Awesome Made by Brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) ⭐ 1,886 | 🐛 3 | 📅 2026-09-08
 * [Bob Cassette Rewinder](https://github.com/dekuNukem/bob_cassette_rewinder) ⭐ 1,491 | 🐛 16 | 🌐 C | 📅 2025-05-12: Defeating Dishwasher Detergents DRM, Renew and Refill Bob Cassettes for 98% cost saving!
 * [System76 Launch Configurable Keyboard](https://github.com/system76/launch) ⭐ 1,435 | 🐛 27 | 🌐 Shell | 📅 2025-07-02
 * [lalboard](https://github.com/JesusFreke/lalboard) ⭐ 992 | 🐛 9 | 🌐 Python | 📅 2025-04-10: A 3D-printed keyboard inspired by the DataHand.
@@ -1969,7 +1969,7 @@ $INDEX
 
 ## Making Conferences
 
-* [WORKADVENTURE](https://workadventu.re/). [repo](https://github.com/thecodingmachine/workadventure) ⭐ 5,823 | 🐛 955 | 🌐 TypeScript | 📅 2026-10-02
+* [WORKADVENTURE](https://workadventu.re/). [repo](https://github.com/thecodingmachine/workadventure) ⭐ 5,824 | 🐛 955 | 🌐 TypeScript | 📅 2026-10-03
 * [python-organizers](https://github.com/python-organizers/resources) ⭐ 59 | 🐛 1 | 📅 2020-10-01: Share docs, tools, lists and whatnot for organizing a Python conference
 * [DevFestAvatar](https://github.com/fzany/DevFestAvatar) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-22: Repo for DevFest Avatar creation.
 * [indico](https://getindico.io/): The effortless open-source tool for event organisation, archival and collaboration
@@ -1990,4 +1990,4 @@ $INDEX
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
